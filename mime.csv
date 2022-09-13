@@ -62,3 +62,5 @@ audio/3gpp2 if it doesn't contain video,,audio/3gpp2 if it doesn't contain video
 7z,application/x-7z-compressed,.7z,7-zip archive
 iges,model/iges,.iges igs,CAD programs
 amr,audio/amr,.amr,Adaptive Multi-rate Codec File(Develop By Ericsson)
+ex4,application/ex4,.ex4,MetaTrader 4 Program File
+ex5,application/ex5,.ex5,MetaTrader 5 Program File
