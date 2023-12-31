@@ -65,3 +65,4 @@ amr,audio/amr,.amr,Adaptive Multi-rate Codec File(Develop By Ericsson)
 ex4,application/ex4,.ex4,MetaTrader 4 Program File
 ex5,application/ex5,.ex5,MetaTrader 5 Program File
 oda,application/oda,.oda,Open Document Architecture
+opus,audio/opus,.opus,Opus audio
