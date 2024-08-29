@@ -9,6 +9,7 @@ class CSVManager:
 
 	def search(self, search_text):
 		found=0
+		result=[]
 		with open(self.filename, mode='r', newline='\n') as file:
 			reader = csv.reader(file)
 			rows = list(reader)
@@ -17,9 +18,14 @@ class CSVManager:
 					if search_text in cells:
 						found=1
 				if found == 1:
-					#print(index + 1,row)
-					return index + 1, row  # Return line number (1-based) and the row
+					result.append([index+1,row]) # Return line number (1-based) and the row
 				found = 0
+			#show result
+			for entry in result:
+				line_number = entry[0]
+				details = ','.join(entry[1])
+				print(f"Line {line_number}: {details}")
+			result=[]
 		return None, None
 
 	def update(self, line_number, new_data):
