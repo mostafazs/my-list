@@ -1,669 +1,669 @@
 Name,MIMEType,Extension,Description
-vnd.lotus-1-2-3,application/vnd.lotus-1-2-3,.123,
-vnd.in3d.3dml,text/vnd.in3d.3dml,.3dml,
-3gpp2,video/3gpp2,.3g2,3GPP2,audio/video container audio/3gpp2 if it doesn't contain video audio/3gpp2 if it doesn't contain video,
+vnd.lotus-1-2-3,application/vnd.lotus-1-2-3,.123
+vnd.in3d.3dml,text/vnd.in3d.3dml,.3dml
+3gpp2,video/3gpp2,.3g2,3GPP2,audio/video container audio/3gpp2 if it doesn't contain video audio/3gpp2 if it doesn't contain video
 avif,image/avif,.avif.avifs,"AVIF (AV1 Image File Format) is an image and animation file format, an extension of <a href=""/image/heif"">HEIF</a> allowing images encoded with AV1. Most files will only have AV1-encoded images, but a mixture of different encodings is allowed. Early draft versions were named AV1 Still Image File Format."
 x-krita,application/x-krita,.kra.krz,"KRA is the file format for Krita, a raster graphics editor. It is a ZIP archive containing a number of files, including the image data, the layer structure, and the document settings.<br /><br />It is similar in function to PSD files for photoshop.<br /><br />A .krz file is a compressed version of a .kra file and only missing the mergedimage.png contained within it to save storage. The lack of this file can affect interchange with other applications such as Scribus."
 heic,image/heic,.heif.heic,"The MIME subtype name may be 'heic' only if the file conforms to the requirements of the 'heic', 'heix', 'heim', or 'heis' brand, and contains at least one of those brands as a compatible brand. The MIME subtype name may be 'heif' only if the file conforms to the requirements of the 'mif1' brand, and contains that brand as a compatible brand.<br /><br />HEIF (High Efficiency Image File Format) is the lossy image and animation format defined by MPEG-H Part 12 (ISO/IEC 23008-12). <br /><br />It is closely related to the HEVC video format, so in that way it is similar to BPG. It uses boxes/atoms format as a container format, so in that way it is similar to JPEG 2000."
-3gpp,video/3gpp,.3gp,3GPP video container,
-3gpp2,audio/3gpp2,.3g2,3GPP2 audio container,
-3g2,video/3gpp2,.3g2,3GPP2 audio/video container,
+3gpp,video/3gpp,.3gp,3GPP video container
+3gpp2,audio/3gpp2,.3g2,3GPP2 audio container
+3g2,video/3gpp2,.3g2,3GPP2 audio/video container
 x-7z-compressed,application/x-7z-compressed,.7z,"7z is a file format for archiving and data compression, developed by Igor Pavlov. It is the native format of the 7-Zip archiving application."
 octet-stream,application/octet-stream,.a.bin..acr.bpk.deploy.dist.distz.dmg.dms.dump.elc.lha.lrf.lzh.o.obj.pkg.so,"This MIME type is used for binary files, it's usually a fallback for unknown/generic MIMEs with no specific designation."
-x-authorware-bin,application/x-authorware-bin,.aab.u32.vox.x32,
+x-authorware-bin,application/x-authorware-bin,.aab.u32.vox.x32
 x-icns,image/x-icns,.icns,"ICNS (often written in lowercase as icns) is the native icon format of Mac OS and OS X.<br /><br />It goes by many other names, including Apple Icon, Macintosh Icon, Mac OS Icon, Macintosh OS X Icon, Mac OS X Icon Resource, Mac OS icns Resource, and IconFamily Resource.<br /><br />There are usually multiple images in a file. Supported image sizes are 16Ã—12, and 16, 32, 48, 128, 256, 512, and 1024 pixels square."
 mp4,audio/mp4,.mp4.m4a.m4b.m4p.m4r.m4v.mp4v.3gp.3g2.3ga.3gpa.3gpp.3gpp2.3gp2,"MP4 is a multimedia container format defined by MPEG-4 Part 14 (ISO/IEC 14496-14). It is based on the Apple QuickTime format, but is not identical to it.<br /><br />It is a successor to the older MOV format, and is used for video (with H.264 and H.265 codecs) and audio (with AAC and AC-3 codecs).<br /><br />It is used by iTunes for music and video downloads, and by many other services for video streaming. It is also used for video files on Blu-ray discs."
 aac,audio/aac,.aac.m4a,"AAC (Advanced Audio Coding) is a compressed audio format defined in MPEG-2 Part 7 (ISO/IEC 13818-7), and in an updated form in MPEG-4 Part 3 (ISO/IEC 14496-3). It was designed to be the successor to MP3. iTunes distributes (or distributed) files in this format, apparently including various metadata (like the name, and sometimes email of the account which downloaded it, along with the time it was downloaded).<br /><br />An AAC file may contain only the raw AAC format, or it may use a multimedia container format such MP4 or QuickTime. AAC is often used for the audio component of a video file."
 mp4a-latm,audio/mp4a-latm,,"Registered by RFC 3016; updated by RFC 6416, published October 2011)"
 aacp,audio/aacp,.aacp,"AAC+ (Advanced Audio Coding Plus) is a compressed audio format defined in MPEG-4 Part 3 (ISO/IEC 14496-3). It is a successor to AAC, and is designed to be more efficient than AAC for low bitrates. It is also known as HE-AAC (High Efficiency AAC).<br /><br />An AAC+ file may contain only the raw AAC+ format, or it may use a multimedia container format such MP4 or QuickTime. AAC+ is often used for the audio component of a video file.<br /><br />Differs from audio/aac and has lower browser compatibility for playback. The Wikipedia link has the most information I could find."
-x-authorware-map,application/x-authorware-map,.aam,
-x-authorware-seg,application/x-authorware-seg,.aas,
-x-abiword,application/x-abiword,.abw.zabw.abw.gz,
-vnd.americandynamics.acc,application/vnd.americandynamics.acc,.acc,
-x-ace-compressed,application/x-ace-compressed,.ace,
-vnd.acucobol,application/vnd.acucobol,.acu,
-vnd.acucorp,application/vnd.acucorp,.acutc.atc,
-adpcm,audio/adpcm,.adp,
-vnd.audiograph,application/vnd.audiograph,.aep,
-x-font-type1,application/x-font-type1,.afm.pfa.pfb.pfm,
-vnd.ibm.modcap,application/vnd.ibm.modcap,.afp.list3820.listafp,
-postscript,application/postscript,.ai.eps.ps,
-vnd.adobe.air-application-installer-package+zip,application/vnd.adobe.air-application-installer-package+zip,.air,
-vnd.amiga.ami,application/vnd.amiga.ami,.ami,
+x-authorware-map,application/x-authorware-map,.aam
+x-authorware-seg,application/x-authorware-seg,.aas
+x-abiword,application/x-abiword,.abw.zabw.abw.gz
+vnd.americandynamics.acc,application/vnd.americandynamics.acc,.acc
+x-ace-compressed,application/x-ace-compressed,.ace
+vnd.acucobol,application/vnd.acucobol,.acu
+vnd.acucorp,application/vnd.acucorp,.acutc.atc
+adpcm,audio/adpcm,.adp
+vnd.audiograph,application/vnd.audiograph,.aep
+x-font-type1,application/x-font-type1,.afm.pfa.pfb.pfm
+vnd.ibm.modcap,application/vnd.ibm.modcap,.afp.list3820.listafp
+postscript,application/postscript,.ai.eps.ps
+vnd.adobe.air-application-installer-package+zip,application/vnd.adobe.air-application-installer-package+zip,.air
+vnd.amiga.ami,application/vnd.amiga.ami,.ami
 vnd.android.package-archive,application/vnd.android.package-archive,.apk,"APK is an archive format used for distributing Android apps. It is based on the Jar format (for Java), and like that format, is actually a ZIP archive with a different extension, and with specific files and directories within it.<br /><br />The executable part of the app is usually in either Dalvik Executable (for older Android versions prior to 5.0) or ART format (for newer versions).<br /><br />Metadata about the app is in a META-INF directory within the archive (similarly to Jar files), compiled code is in a lib directory, and resources in a res directory. There are also a few files at the root level including AndroidManifest.xml (which may be regular XML or, often, binary XML)."
-x-ms-application,application/x-ms-application,.application,
-vnd.lotus-approach,application/vnd.lotus-approach,.apr,
+x-ms-application,application/x-ms-application,.application
+vnd.lotus-approach,application/vnd.lotus-approach,.apr
 pgp-signature,application/pgp-signature,.asc.sig,"PGP (Pretty Good Privacy) is an encryption program, and its encryption format which eventually became the OpenPGP standard.<br /><br />Created by Phil Zimmerman in 1991, it got into some legal trouble early on because encryption of this grade was classified as a munition under U.S. law and restricted from export. These laws, while not completely repealed even now, have been considerably liberalized since, and now export of PGP and related software is only restricted when it's being exported to countries such as Iran that are under special sanction. Zimmerman's PGP company was eventually acquired by Network Associates (now McAfee), which eventually rebranded the original command-line-based PGP as ""McAfee E-Business Server"" and sold off all other PGP assets to some PGP developers who formed a new PGP company, which was eventually acquired by Symantec. Meanwhile, the specifications of the file format had been released as the OpenPGP spec and published as an RFC document, making it available for use in other products.<br /><br />GNU Privacy Guard (GnuPG, GPG) is a commonly-used encryption tool using PGP format, running on Linux systems.<br /><br />PGP uses a combination of several encryption techniques applied serially, including symmetric-key and public-key cryptography."
-x-ms-asf,video/x-ms-asf,.asf.asx,
-x-asm,text/x-asm,.asm.s,
-vnd.accpac.simply.aso,application/vnd.accpac.simply.aso,.aso,
-atom+xml,application/atom+xml,.atom,
-atomcat+xml,application/atomcat+xml,.atomcat,
-atomsvc+xml,application/atomsvc+xml,.atomsvc,
-vnd.antix.game-component,application/vnd.antix.game-component,.atx,
-basic,audio/basic,.au.snd,
-x-msvideo,video/x-msvideo,.avi,Audio Video Interleave,
-applixware,application/applixware,.aw,
-vnd.airzip.filesecure.azf,application/vnd.airzip.filesecure.azf,.azf,
-vnd.airzip.filesecure.azs,application/vnd.airzip.filesecure.azs,.azs,
-vnd.amazon.ebook,application/vnd.amazon.ebook,.azw,
-x-msdownload,application/x-msdownload,.bat.com.dll.exe.msi,
-x-bcpio,application/x-bcpio,.bcpio,
-x-font-bdf,application/x-font-bdf,.bdf,
-vnd.syncml.dm+wbxml,application/vnd.syncml.dm+wbxml,.bdm,
-vnd.fujitsu.oasysprs,application/vnd.fujitsu.oasysprs,.bh2,
-vnd.bmi,application/vnd.bmi,.bmi,
-bmp,image/bmp,.bmp,
-vnd.framemaker,application/vnd.framemaker,.book.fm.frame.maker,
-vnd.previewsystems.box,application/vnd.previewsystems.box,.box,
-x-bzip2,application/x-bzip2,.boz.bz2,BZip2 archive,
-prs.btif,image/prs.btif,.btif,
-x-bzip,application/x-bzip,.bz,BZip archive,
-x-c,text/x-c,.c.cc.cpp.cxx.dic.h.hh,
-vnd.clonk.c4group,application/vnd.clonk.c4group,.c4d.c4f.c4g.c4p.c4u,
-vnd.ms-cab-compressed,application/vnd.ms-cab-compressed,.cab,
-vnd.curl.car,application/vnd.curl.car,.car,
-vnd.ms-pki.seccat,application/vnd.ms-pki.seccat,.cat,
-x-director,application/x-director,.cct.cst.cxt.dcr.dir.dxr.fgd.swa.w3d,
-ccxml+xml,application/ccxml+xml,.ccxml,
-vnd.contact.cmsg,application/vnd.contact.cmsg,.cdbcmsg,
-x-netcdf,application/x-netcdf,.cdf.nc,
-vnd.mediastation.cdkey,application/vnd.mediastation.cdkey,.cdkey,
-x-cdx,chemical/x-cdx,.cdx,
-vnd.chemdraw+xml,application/vnd.chemdraw+xml,.cdxml,
-vnd.cinderella,application/vnd.cinderella,.cdy,
-pkix-cert,application/pkix-cert,.cer,
-cgm,image/cgm,.cgm,
-x-chat,application/x-chat,.chat,
-vnd.ms-htmlhelp,application/vnd.ms-htmlhelp,.chm,
-vnd.kde.kchart,application/vnd.kde.kchart,.chrt,
-x-cif,chemical/x-cif,.cif,
-vnd.anser-web-certificate-issue-initiation,application/vnd.anser-web-certificate-issue-initiation,.cii,
-vnd.ms-artgalry,application/vnd.ms-artgalry,.cil,
-vnd.claymore,application/vnd.claymore,.cla,
-java-vm,application/java-vm,.class,
-vnd.crick.clicker.keyboard,application/vnd.crick.clicker.keyboard,.clkk,
-vnd.crick.clicker.palette,application/vnd.crick.clicker.palette,.clkp,
-vnd.crick.clicker.template,application/vnd.crick.clicker.template,.clkt,
-vnd.crick.clicker.wordbank,application/vnd.crick.clicker.wordbank,.clkw,
-vnd.crick.clicker,application/vnd.crick.clicker,.clkx,
-x-msclip,application/x-msclip,.clp,
-vnd.cosmocaller,application/vnd.cosmocaller,.cmc,
-x-cmdf,chemical/x-cmdf,.cmdf,
-x-cml,chemical/x-cml,.cml,
-vnd.yellowriver-custom-menu,application/vnd.yellowriver-custom-menu,.cmp,
-x-cmx,image/x-cmx,.cmx,
-vnd.rim.cod,application/vnd.rim.cod,.cod,
-plain,text/plain,.conf.def.diff.in.ksh.list.log.pl.text.txt,
+x-ms-asf,video/x-ms-asf,.asf.asx
+x-asm,text/x-asm,.asm.s
+vnd.accpac.simply.aso,application/vnd.accpac.simply.aso,.aso
+atom+xml,application/atom+xml,.atom
+atomcat+xml,application/atomcat+xml,.atomcat
+atomsvc+xml,application/atomsvc+xml,.atomsvc
+vnd.antix.game-component,application/vnd.antix.game-component,.atx
+basic,audio/basic,.au.snd
+x-msvideo,video/x-msvideo,.avi,Audio Video Interleave
+applixware,application/applixware,.aw
+vnd.airzip.filesecure.azf,application/vnd.airzip.filesecure.azf,.azf
+vnd.airzip.filesecure.azs,application/vnd.airzip.filesecure.azs,.azs
+vnd.amazon.ebook,application/vnd.amazon.ebook,.azw
+x-msdownload,application/x-msdownload,.bat.com.dll.exe.msi
+x-bcpio,application/x-bcpio,.bcpio
+x-font-bdf,application/x-font-bdf,.bdf
+vnd.syncml.dm+wbxml,application/vnd.syncml.dm+wbxml,.bdm
+vnd.fujitsu.oasysprs,application/vnd.fujitsu.oasysprs,.bh2
+vnd.bmi,application/vnd.bmi,.bmi
+bmp,image/bmp,.bmp
+vnd.framemaker,application/vnd.framemaker,.book.fm.frame.maker
+vnd.previewsystems.box,application/vnd.previewsystems.box,.box
+x-bzip2,application/x-bzip2,.boz.bz2,BZip2 archive
+prs.btif,image/prs.btif,.btif
+x-bzip,application/x-bzip,.bz,BZip archive
+x-c,text/x-c,.c.cc.cpp.cxx.dic.h.hh
+vnd.clonk.c4group,application/vnd.clonk.c4group,.c4d.c4f.c4g.c4p.c4u
+vnd.ms-cab-compressed,application/vnd.ms-cab-compressed,.cab
+vnd.curl.car,application/vnd.curl.car,.car
+vnd.ms-pki.seccat,application/vnd.ms-pki.seccat,.cat
+x-director,application/x-director,.cct.cst.cxt.dcr.dir.dxr.fgd.swa.w3d
+ccxml+xml,application/ccxml+xml,.ccxml
+vnd.contact.cmsg,application/vnd.contact.cmsg,.cdbcmsg
+x-netcdf,application/x-netcdf,.cdf.nc
+vnd.mediastation.cdkey,application/vnd.mediastation.cdkey,.cdkey
+x-cdx,chemical/x-cdx,.cdx
+vnd.chemdraw+xml,application/vnd.chemdraw+xml,.cdxml
+vnd.cinderella,application/vnd.cinderella,.cdy
+pkix-cert,application/pkix-cert,.cer
+cgm,image/cgm,.cgm
+x-chat,application/x-chat,.chat
+vnd.ms-htmlhelp,application/vnd.ms-htmlhelp,.chm
+vnd.kde.kchart,application/vnd.kde.kchart,.chrt
+x-cif,chemical/x-cif,.cif
+vnd.anser-web-certificate-issue-initiation,application/vnd.anser-web-certificate-issue-initiation,.cii
+vnd.ms-artgalry,application/vnd.ms-artgalry,.cil
+vnd.claymore,application/vnd.claymore,.cla
+java-vm,application/java-vm,.class
+vnd.crick.clicker.keyboard,application/vnd.crick.clicker.keyboard,.clkk
+vnd.crick.clicker.palette,application/vnd.crick.clicker.palette,.clkp
+vnd.crick.clicker.template,application/vnd.crick.clicker.template,.clkt
+vnd.crick.clicker.wordbank,application/vnd.crick.clicker.wordbank,.clkw
+vnd.crick.clicker,application/vnd.crick.clicker,.clkx
+x-msclip,application/x-msclip,.clp
+vnd.cosmocaller,application/vnd.cosmocaller,.cmc
+x-cmdf,chemical/x-cmdf,.cmdf
+x-cml,chemical/x-cml,.cml
+vnd.yellowriver-custom-menu,application/vnd.yellowriver-custom-menu,.cmp
+x-cmx,image/x-cmx,.cmx
+vnd.rim.cod,application/vnd.rim.cod,.cod
+plain,text/plain,.conf.def.diff.in.ksh.list.log.pl.text.txt
 vnd.debian.binary-package,application/vnd.debian.binary-package,.deb.udeb,"deb (Debian package) is a file format used for software distribution in the Debian Linux platform. It is actually an AR archive, with content that includes some tar files. <br /><br />The ""udeb"" files are in the same basic format as ""deb"", but are considered ""micro deb"", used for smaller packages with only the most essential files."
 markdown,text/markdown,.md.markdown.mdown.markdn,"Markdown is a lightweight and human readable markup format for text formatting created by John Gruber and Aaron Swartz. It is similar to various forms of wiki markup. There is no formal specification for the original Markdown, and it has ambiguities that are handled inconsistently by different implementations.<br /><br />An attempt to improve on this situation was done (released 2014-09) by a group unrelated to the originators of Markdown, and was originally dubbed Standard Markdown until John Gruber objected to this name, and it was first renamed ""Common Markdown"" and later CommonMark. Markdeep is an extended Markdown implemented in JavaScript for web use."
 wasm,application/wasm,.wasm,A WASM binary allowed to be used with WebAssembly.instantiateStreaming.
-x-cpio,application/x-cpio,.cpio,
-mac-compactpro,application/mac-compactpro,.cpt,
-x-mscardfile,application/x-mscardfile,.crd,
-pkix-crl,application/pkix-crl,.crl,
-x-x509-ca-cert,application/x-x509-ca-cert,.crt.der,
-x-csh,application/x-csh,.csh,C-Shell script,
-x-csml,chemical/x-csml,.csml,
-vnd.commonspace,application/vnd.commonspace,.csp,
-css,text/css,.css,Cascading Style Sheets (CSS),
+x-cpio,application/x-cpio,.cpio
+mac-compactpro,application/mac-compactpro,.cpt
+x-mscardfile,application/x-mscardfile,.crd
+pkix-crl,application/pkix-crl,.crl
+x-x509-ca-cert,application/x-x509-ca-cert,.crt.der
+x-csh,application/x-csh,.csh,C-Shell script
+x-csml,chemical/x-csml,.csml
+vnd.commonspace,application/vnd.commonspace,.csp
+css,text/css,.css,Cascading Style Sheets (CSS)
 csv,text/csv,.csv,"CSV (Comma Separated Values) is a text-based format typically used for the storage or exchange of database-like records. In Microsoft Windows systems, it will commonly open in Excel, but it is not a proprietary format and can be used in many other programs."
-cu-seeme,application/cu-seeme,.cu,
-vnd.curl,text/vnd.curl,.curl,
-prs.cww,application/prs.cww,.cww,
-vnd.mobius.daf,application/vnd.mobius.daf,.daf,
-vnd.fdsn.seed,application/vnd.fdsn.seed,.dataless.seed,
-davmount+xml,application/davmount+xml,.davmount,
-vnd.curl.dcurl,text/vnd.curl.dcurl,.dcurl,
-vnd.oma.dd2+xml,application/vnd.oma.dd2+xml,.dd2,
-vnd.fujixerox.ddd,application/vnd.fujixerox.ddd,.ddd,
-x-debian-package,application/x-debian-package,.deb.udeb,
-vnd.dreamfactory,application/vnd.dreamfactory,.dfac,
-vnd.mobius.dis,application/vnd.mobius.dis,.dis,
-vnd.djvu,image/vnd.djvu,.djv.djvu,
-vnd.dna,application/vnd.dna,.dna,
+cu-seeme,application/cu-seeme,.cu
+vnd.curl,text/vnd.curl,.curl
+prs.cww,application/prs.cww,.cww
+vnd.mobius.daf,application/vnd.mobius.daf,.daf
+vnd.fdsn.seed,application/vnd.fdsn.seed,.dataless.seed
+davmount+xml,application/davmount+xml,.davmount
+vnd.curl.dcurl,text/vnd.curl.dcurl,.dcurl
+vnd.oma.dd2+xml,application/vnd.oma.dd2+xml,.dd2
+vnd.fujixerox.ddd,application/vnd.fujixerox.ddd,.ddd
+x-debian-package,application/x-debian-package,.deb.udeb
+vnd.dreamfactory,application/vnd.dreamfactory,.dfac
+vnd.mobius.dis,application/vnd.mobius.dis,.dis
+vnd.djvu,image/vnd.djvu,.djv.djvu
+vnd.dna,application/vnd.dna,.dna
 msword,application/msword,.doc.dot.wiz,"Microsoft Word is a popular word processor program which has existed in a number of versions for DOS, Windows, and the Macintosh. It is often distributed as part of the Microsoft Office suite. Various native file formats have been used, and some other non-Word-specific formats can also be opened and saved.<br /><br />Please note the more modern .docx file extension does not use this mime type."
-vnd.ms-word.document.macroenabled.12,application/vnd.ms-word.document.macroenabled.12,.docm,
-vnd.openxmlformats-officedocument.wordprocessingml.document,application/vnd.openxmlformats-officedocument.wordprocessingml.document,.docx,
-vnd.ms-word.template.macroenabled.12,application/vnd.ms-word.template.macroenabled.12,.dotm,
-vnd.openxmlformats-officedocument.wordprocessingml.template,application/vnd.openxmlformats-officedocument.wordprocessingml.template,.dotx,
-vnd.osgi.dp,application/vnd.osgi.dp,.dp,
-vnd.dpgraph,application/vnd.dpgraph,.dpg,
-prs.lines.tag,text/prs.lines.tag,.dsc,
-x-dtbook+xml,application/x-dtbook+xml,.dtb,
-xml-dtd,application/xml-dtd,.dtd,
-vnd.dts,audio/vnd.dts,.dts,
-vnd.dts.hd,audio/vnd.dts.hd,.dtshd,
-x-dvi,application/x-dvi,.dvi,
-vnd.dwf,model/vnd.dwf,.dwf,
-vnd.dwg,image/vnd.dwg,.dwg,
-vnd.dxf,image/vnd.dxf,.dxf,
-vnd.spotfire.dxp,application/vnd.spotfire.dxp,.dxp,
-vnd.nuera.ecelp4800,audio/vnd.nuera.ecelp4800,.ecelp4800,
-vnd.nuera.ecelp7470,audio/vnd.nuera.ecelp7470,.ecelp7470,
-vnd.nuera.ecelp9600,audio/vnd.nuera.ecelp9600,.ecelp9600,
-ecmascript,application/ecmascript,.ecma,
-vnd.novadigm.edm,application/vnd.novadigm.edm,.edm,
-vnd.novadigm.edx,application/vnd.novadigm.edx,.edx,
-vnd.picsel,application/vnd.picsel,.efif,
-vnd.pg.osasli,application/vnd.pg.osasli,.ei6,
+vnd.ms-word.document.macroenabled.12,application/vnd.ms-word.document.macroenabled.12,.docm
+vnd.openxmlformats-officedocument.wordprocessingml.document,application/vnd.openxmlformats-officedocument.wordprocessingml.document,.docx
+vnd.ms-word.template.macroenabled.12,application/vnd.ms-word.template.macroenabled.12,.dotm
+vnd.openxmlformats-officedocument.wordprocessingml.template,application/vnd.openxmlformats-officedocument.wordprocessingml.template,.dotx
+vnd.osgi.dp,application/vnd.osgi.dp,.dp
+vnd.dpgraph,application/vnd.dpgraph,.dpg
+prs.lines.tag,text/prs.lines.tag,.dsc
+x-dtbook+xml,application/x-dtbook+xml,.dtb
+xml-dtd,application/xml-dtd,.dtd
+vnd.dts,audio/vnd.dts,.dts
+vnd.dts.hd,audio/vnd.dts.hd,.dtshd
+x-dvi,application/x-dvi,.dvi
+vnd.dwf,model/vnd.dwf,.dwf
+vnd.dwg,image/vnd.dwg,.dwg
+vnd.dxf,image/vnd.dxf,.dxf
+vnd.spotfire.dxp,application/vnd.spotfire.dxp,.dxp
+vnd.nuera.ecelp4800,audio/vnd.nuera.ecelp4800,.ecelp4800
+vnd.nuera.ecelp7470,audio/vnd.nuera.ecelp7470,.ecelp7470
+vnd.nuera.ecelp9600,audio/vnd.nuera.ecelp9600,.ecelp9600
+ecmascript,application/ecmascript,.ecma
+vnd.novadigm.edm,application/vnd.novadigm.edm,.edm
+vnd.novadigm.edx,application/vnd.novadigm.edx,.edx
+vnd.picsel,application/vnd.picsel,.efif
+vnd.pg.osasli,application/vnd.pg.osasli,.ei6
 rfc822,message/rfc822,.eml.mht.mhtml.mime.nws,"A Content-Type of ""message/rfc822"" indicates that the body contains an encapsulated message, with the syntax of an RFC 822 message."
-emma+xml,application/emma+xml,.emma,
-vnd.digital-winds,audio/vnd.digital-winds,.eol,
-vnd.ms-fontobject,application/vnd.ms-fontobject,.eot,
-epub+zip,application/epub+zip,.epub,Electronic publication (EPUB),
-vnd.eszigno3+xml,application/vnd.eszigno3+xml,.es3.et3,
-vnd.epson.esf,application/vnd.epson.esf,.esf,
-x-setext,text/x-setext,.etx,
-vnd.novadigm.ext,application/vnd.novadigm.ext,.ext,
+emma+xml,application/emma+xml,.emma
+vnd.digital-winds,audio/vnd.digital-winds,.eol
+vnd.ms-fontobject,application/vnd.ms-fontobject,.eot
+epub+zip,application/epub+zip,.epub,Electronic publication (EPUB)
+vnd.eszigno3+xml,application/vnd.eszigno3+xml,.es3.et3
+vnd.epson.esf,application/vnd.epson.esf,.esf
+x-setext,text/x-setext,.etx
+vnd.novadigm.ext,application/vnd.novadigm.ext,.ext
 andrew-inset,application/andrew-inset,.ez,"Published specification:  ""Multimedia Applications Development with the Andrew Toolkit"", by Nathaniel S. Borenstein, Prentice Hall, 1990. <br /><br />Editors note: I looked him up, he works at Mimecast now. Reach out!"
-vnd.ezpix-album,application/vnd.ezpix-album,.ez2,
-vnd.ezpix-package,application/vnd.ezpix-package,.ez3,
-x-fortran,text/x-fortran,.f.f77.f90.for,
-x-f4v,video/x-f4v,.f4v,
-vnd.fastbidsheet,image/vnd.fastbidsheet,.fbs,
-vnd.fdf,application/vnd.fdf,.fdf,
-vnd.denovo.fcselayout-link,application/vnd.denovo.fcselayout-link,.fe_launch,
-vnd.fujitsu.oasysgp,application/vnd.fujitsu.oasysgp,.fg5,
-x-freehand,image/x-freehand,.fh.fh4.fh5.fh7.fhc,
-x-xfig,application/x-xfig,.fig,
-x-fli,video/x-fli,.fli,
-vnd.micrografx.flo,application/vnd.micrografx.flo,.flo,
-x-flv,video/x-flv,.flv,
-vnd.kde.kivio,application/vnd.kde.kivio,.flw,
-vnd.fmi.flexstor,text/vnd.fmi.flexstor,.flx,
-vnd.fly,text/vnd.fly,.fly,
-vnd.frogans.fnc,application/vnd.frogans.fnc,.fnc,
-vnd.fpx,image/vnd.fpx,.fpx,
-vnd.fsc.weblaunch,application/vnd.fsc.weblaunch,.fsc,
-vnd.fst,image/vnd.fst,.fst,
-vnd.fluxtime.clip,application/vnd.fluxtime.clip,.ftc,
-vnd.anser-web-funds-transfer-initiation,application/vnd.anser-web-funds-transfer-initiation,.fti,
-vnd.fvt,video/vnd.fvt,.fvt,
-vnd.fuzzysheet,application/vnd.fuzzysheet,.fzs,
-g3fax,image/g3fax,.g3,
-vnd.groove-account,application/vnd.groove-account,.gac,
-vnd.gdl,model/vnd.gdl,.gdl,
-vnd.dynageo,application/vnd.dynageo,.geo,
-vnd.geometry-explorer,application/vnd.geometry-explorer,.gex.gre,
-vnd.geogebra.file,application/vnd.geogebra.file,.ggb,
-vnd.geogebra.tool,application/vnd.geogebra.tool,.ggt,
-vnd.groove-help,application/vnd.groove-help,.ghf,
+vnd.ezpix-album,application/vnd.ezpix-album,.ez2
+vnd.ezpix-package,application/vnd.ezpix-package,.ez3
+x-fortran,text/x-fortran,.f.f77.f90.for
+x-f4v,video/x-f4v,.f4v
+vnd.fastbidsheet,image/vnd.fastbidsheet,.fbs
+vnd.fdf,application/vnd.fdf,.fdf
+vnd.denovo.fcselayout-link,application/vnd.denovo.fcselayout-link,.fe_launch
+vnd.fujitsu.oasysgp,application/vnd.fujitsu.oasysgp,.fg5
+x-freehand,image/x-freehand,.fh.fh4.fh5.fh7.fhc
+x-xfig,application/x-xfig,.fig
+x-fli,video/x-fli,.fli
+vnd.micrografx.flo,application/vnd.micrografx.flo,.flo
+x-flv,video/x-flv,.flv
+vnd.kde.kivio,application/vnd.kde.kivio,.flw
+vnd.fmi.flexstor,text/vnd.fmi.flexstor,.flx
+vnd.fly,text/vnd.fly,.fly
+vnd.frogans.fnc,application/vnd.frogans.fnc,.fnc
+vnd.fpx,image/vnd.fpx,.fpx
+vnd.fsc.weblaunch,application/vnd.fsc.weblaunch,.fsc
+vnd.fst,image/vnd.fst,.fst
+vnd.fluxtime.clip,application/vnd.fluxtime.clip,.ftc
+vnd.anser-web-funds-transfer-initiation,application/vnd.anser-web-funds-transfer-initiation,.fti
+vnd.fvt,video/vnd.fvt,.fvt
+vnd.fuzzysheet,application/vnd.fuzzysheet,.fzs
+g3fax,image/g3fax,.g3
+vnd.groove-account,application/vnd.groove-account,.gac
+vnd.gdl,model/vnd.gdl,.gdl
+vnd.dynageo,application/vnd.dynageo,.geo
+vnd.geometry-explorer,application/vnd.geometry-explorer,.gex.gre
+vnd.geogebra.file,application/vnd.geogebra.file,.ggb
+vnd.geogebra.tool,application/vnd.geogebra.tool,.ggt
+vnd.groove-help,application/vnd.groove-help,.ghf
 gif,image/gif,.gif,"Graphics Interchange Format (GIF) was introduced by the CompuServe online service in 1987, intended to provide a consistent and compact format for graphics to be downloaded on that service. Since the specifications were openly released, the format gained wide use in graphics software and on online services and bulletin board systems (BBSs), not just CompuServe; later it became a major Web graphic format. GIF's ability to have animation (unlike most still graphic formats) has caused it to gain some Internet notoriety and use in conjunction with ""memes""."
-vnd.groove-identity-message,application/vnd.groove-identity-message,.gim,
-vnd.gmx,application/vnd.gmx,.gmx,
-x-gnumeric,application/x-gnumeric,.gnumeric,
-vnd.flographit,application/vnd.flographit,.gph,
-vnd.grafeq,application/vnd.grafeq,.gqf.gqs,
-srgs,application/srgs,.gram,
-vnd.groove-injector,application/vnd.groove-injector,.grv,
-srgs+xml,application/srgs+xml,.grxml,
-x-font-ghostscript,application/x-font-ghostscript,.gsf,
-x-gtar,application/x-gtar,.gtar,
-vnd.groove-tool-message,application/vnd.groove-tool-message,.gtm,
-vnd.gtw,model/vnd.gtw,.gtw,
-vnd.graphviz,text/vnd.graphviz,.gv,
-x-gzip,application/x-gzip,.gz.tgz,
-gzip,application/gzip,.gz.tgz,
-h261,video/h261,.h261,
+vnd.groove-identity-message,application/vnd.groove-identity-message,.gim
+vnd.gmx,application/vnd.gmx,.gmx
+x-gnumeric,application/x-gnumeric,.gnumeric
+vnd.flographit,application/vnd.flographit,.gph
+vnd.grafeq,application/vnd.grafeq,.gqf.gqs
+srgs,application/srgs,.gram
+vnd.groove-injector,application/vnd.groove-injector,.grv
+srgs+xml,application/srgs+xml,.grxml
+x-font-ghostscript,application/x-font-ghostscript,.gsf
+x-gtar,application/x-gtar,.gtar
+vnd.groove-tool-message,application/vnd.groove-tool-message,.gtm
+vnd.gtw,model/vnd.gtw,.gtw
+vnd.graphviz,text/vnd.graphviz,.gv
+x-gzip,application/x-gzip,.gz.tgz
+gzip,application/gzip,.gz.tgz
+h261,video/h261,.h261
 ,gcode,.gcode,"GCODE files are created by slicing programs, such as Simplify3D and Slic3r, that translate CAD drawings into G-Code, which a 3D printer can read.<br /><br />There's no official mimetype assigned as far as the author is aware, however these are the ones commonly reported."
-h263,video/h263,.h263,
+h263,video/h263,.h263
 h264,video/h264,.h264,"Advanced Video Coding (AVC), also referred to as H.264 or MPEG-4 Part 10, Advanced Video Coding (MPEG-4 AVC), is a video compression standard based on block-oriented, motion-compensated integer-DCT coding.[1] It is by far the most commonly used format for the recording, compression, and distribution of video content, used by 91% of video industry developers as of September 2019.<br /><br />It supports resolutions up to and including 8K UHD.<br /><br />H.264 is controversial for being patent-encumbered, and hence subject to royalty requirements. In 2013, Cisco is attempting to partially remedy this by producing a freely distributed executable H.264 codec for many platforms for which they have paid the royalty, allowing anybody to download and use it in unmodified form royalty-free. The source code is also openly available, but any altered versions that anybody might create from it would require separate licensing, as would any distribution of the executables other than direct download from Cisco. Thus, the only way to use it as part of a product without additional license fees is to have the product's installer download the executable from Cisco during the install process, rather than including it directly in your own product (whether on disk or downloadable from your site).<br /><br />HEVC (H.265) has been developed as a more efficient successor to this format, but it is also patent-encumbered. Attempts to create a royalty-free alternative include AV1, Daala, VP9, and Thor.<br /><br />The H.264 specification does not, in an extremely strict sense, define a codec which fits into a series of bytes; instead, it describes the stream as fitting into a sequence of frames called ""network abstraction layer units"", which can then be delineated into a raw byte format by the user. The format for putting these into a raw bytestream described by Annex B of the specification apparently is apparently very widely-used."
-vnd.hbci,application/vnd.hbci,.hbci,
+vnd.hbci,application/vnd.hbci,.hbci
 vnd.gerber,application/vnd.gerber,.gbr,The Gerber file format is the de facto standard for printed circuit board (PCB) image data transfer. Gerber files consist of 7bit ASCII text and do not contain any active or executable content. <br /><br />The format does include an optional integrity check: A checksum of the file's content can be specified using the MD5 File Attribute. Any additional integrity protection or privacy protection must be supplied externally.
-x-hdf,application/x-hdf,.hdf,
-winhlp,application/winhlp,.hlp,
-vnd.hp-hpgl,application/vnd.hp-hpgl,.hpgl,
-vnd.hp-hpid,application/vnd.hp-hpid,.hpid,
-vnd.hp-hps,application/vnd.hp-hps,.hps,
-mac-binhex40,application/mac-binhex40,.hqx,
-vnd.kenameaapp,application/vnd.kenameaapp,.htke,
-html,text/html,.htm.html,HyperText Markup Language (HTML),
-vnd.yamaha.hv-dic,application/vnd.yamaha.hv-dic,.hvd,
-vnd.yamaha.hv-voice,application/vnd.yamaha.hv-voice,.hvp,
-vnd.yamaha.hv-script,application/vnd.yamaha.hv-script,.hvs,
-vnd.iccprofile,application/vnd.iccprofile,.icc.icm,
-x-cooltalk,x-conference/x-cooltalk,.ice,
-x-icon,image/x-icon,.ico,Icon format,
-calendar,text/calendar,.ics.ifb,iCalendar format,
-ief,image/ief,.ief,
-vnd.shana.informed.formdata,application/vnd.shana.informed.formdata,.ifm,
-iges,model/iges,.iges.igs,
-vnd.igloader,application/vnd.igloader,.igl,
-vnd.micrografx.igx,application/vnd.micrografx.igx,.igx,
-vnd.shana.informed.interchange,application/vnd.shana.informed.interchange,.iif,
-vnd.accpac.simply.imp,application/vnd.accpac.simply.imp,.imp,
-vnd.ms-ims,application/vnd.ms-ims,.ims,
-vnd.shana.informed.package,application/vnd.shana.informed.package,.ipk,
-vnd.ibm.rights-management,application/vnd.ibm.rights-management,.irm,
-vnd.irepository.package+xml,application/vnd.irepository.package+xml,.irp,
-vnd.shana.informed.formtemplate,application/vnd.shana.informed.formtemplate,.itp,
-vnd.immervision-ivp,application/vnd.immervision-ivp,.ivp,
-vnd.immervision-ivu,application/vnd.immervision-ivu,.ivu,
-vnd.sun.j2me.app-descriptor,text/vnd.sun.j2me.app-descriptor,.jad,
-vnd.jam,application/vnd.jam,.jam,
-java-archive,application/java-archive,.jar,Java Archive (JAR),
-x-java-source,text/x-java-source,.java,
-vnd.jisp,application/vnd.jisp,.jisp,
-vnd.hp-jlyt,application/vnd.hp-jlyt,.jlt,
-x-java-jnlp-file,application/x-java-jnlp-file,.jnlp,
-vnd.joost.joda-archive,application/vnd.joost.joda-archive,.joda,
+x-hdf,application/x-hdf,.hdf
+winhlp,application/winhlp,.hlp
+vnd.hp-hpgl,application/vnd.hp-hpgl,.hpgl
+vnd.hp-hpid,application/vnd.hp-hpid,.hpid
+vnd.hp-hps,application/vnd.hp-hps,.hps
+mac-binhex40,application/mac-binhex40,.hqx
+vnd.kenameaapp,application/vnd.kenameaapp,.htke
+html,text/html,.htm.html,HyperText Markup Language (HTML)
+vnd.yamaha.hv-dic,application/vnd.yamaha.hv-dic,.hvd
+vnd.yamaha.hv-voice,application/vnd.yamaha.hv-voice,.hvp
+vnd.yamaha.hv-script,application/vnd.yamaha.hv-script,.hvs
+vnd.iccprofile,application/vnd.iccprofile,.icc.icm
+x-cooltalk,x-conference/x-cooltalk,.ice
+x-icon,image/x-icon,.ico,Icon format
+calendar,text/calendar,.ics.ifb,iCalendar format
+ief,image/ief,.ief
+vnd.shana.informed.formdata,application/vnd.shana.informed.formdata,.ifm
+iges,model/iges,.iges.igs
+vnd.igloader,application/vnd.igloader,.igl
+vnd.micrografx.igx,application/vnd.micrografx.igx,.igx
+vnd.shana.informed.interchange,application/vnd.shana.informed.interchange,.iif
+vnd.accpac.simply.imp,application/vnd.accpac.simply.imp,.imp
+vnd.ms-ims,application/vnd.ms-ims,.ims
+vnd.shana.informed.package,application/vnd.shana.informed.package,.ipk
+vnd.ibm.rights-management,application/vnd.ibm.rights-management,.irm
+vnd.irepository.package+xml,application/vnd.irepository.package+xml,.irp
+vnd.shana.informed.formtemplate,application/vnd.shana.informed.formtemplate,.itp
+vnd.immervision-ivp,application/vnd.immervision-ivp,.ivp
+vnd.immervision-ivu,application/vnd.immervision-ivu,.ivu
+vnd.sun.j2me.app-descriptor,text/vnd.sun.j2me.app-descriptor,.jad
+vnd.jam,application/vnd.jam,.jam
+java-archive,application/java-archive,.jar,Java Archive (JAR)
+x-java-source,text/x-java-source,.java
+vnd.jisp,application/vnd.jisp,.jisp
+vnd.hp-jlyt,application/vnd.hp-jlyt,.jlt
+x-java-jnlp-file,application/x-java-jnlp-file,.jnlp
+vnd.joost.joda-archive,application/vnd.joost.joda-archive,.joda
 jpeg,image/jpeg,.jpe.jpeg.jpg.pjpg.jfif.jfif-tbnl.jif,"JPEG is a popular raster image format well-suited to photographic images. It usually uses lossy DCT compression. It is named after the Joint Photographic Experts Group, the organization which developed the format. It is sometimes called JPEG1, JPEG-1, or JPEG 1992 to help disambiguate it."
 pjpeg,image/pjpeg,.jpe.jpeg.jpg.pjpg.jfi.jfif.jfif-tbnl.jif,PJPEG files refer to images wherein the Progressive JPEG format (hence JPEG) is used for bitmap images.
-jpm,video/jpm,.jpgm.jpm,
-jpeg,video/jpeg,.jpgv,
+jpm,video/jpm,.jpgm.jpm
+jpeg,video/jpeg,.jpgv
 x-trash,application/x-trash,,Why even drag this in?
 x-shellscript,application/x-shellscript,.sh,Why even drag this in?
 javascript,text/javascript,.js,"JavaScript (sometimes abbreviated JS) is a scripting language commonly implemented as part of a web browser in order to create enhanced user interfaces and dynamic websites, but also used in other contexts (such as server-side JavaScript).<br /><br />This is not the same as <a href=""/text/x-java-source"">Java</a>. People constantly get confused about that.<br /><br />JavaScript was originally developed at Netscape by Brendan Eich (who later became Mozilla CEO... very briefly), where it was originally called LiveScript while under development, but became JavaScript (with the name licensed from Sun) in order to capitalize on the popularity of Java, though the languages aren't really related (although there are some similarities in syntax). Later, a Microsoft implementation designed to be (more or less) compatible was called JScript, and an attempt at a formally standardized version of the language was published by ECMA as ECMAScript.<br /><br />The node.js runtime environment is (mostly) implemented in JavaScript, as are applications running within it.<br /><br />Due to its status as the only scripting language for browsers, JavaScript skyrocketed in popularity in the 2000's and 2010's and as of 2017 serves as a lingua franca of Web development. Arguably, it is currently the world's most popular programming language (it tops GitHub and StackOverflow currently)."
 json,application/json,.json,"JSON (JavaScript Object Notation) is widely used by web applications, mobile apps, and other programs to communicate between different systems (such as between a client and server). While it is named after JavaScript, there are libraries for many other programming and scripting languages to let them use this format as well. The geospatial format GeoJSON is based on JSON, as is the remote-procedure-call protocol JSON-RPC and the JSON-LD linked-data format. The IBM standard of JSONx is an XML implementation of JSON. I-JSON is a restricted profile of JSON for Internet use. JSON Web Tokens, JSON Web Encryption, and JSON Web Signatures are JSON-based formats for security-related functions."
-midi,audio/midi,.kar.mid.midi.rmi,Musical Instrument Digital Interface (MIDI),
+midi,audio/midi,.kar.mid.midi.rmi,Musical Instrument Digital Interface (MIDI)
 aiff,audio/aiff,.aiff.aif.aff,"AIFF (Audio Interchange File Format) files store uncompressed signed audio samples inside an IFF container. There's also a compressed variant, called AIFC with the same mimetype.<br /><br />AIFF chunks provide native metadata. In addition, although it is not in the specification, an ID3 chunk is often used to include ID3V2 metadata.<br /><br />It is difficult to trace down official mention of an official mimetype declaration, however you should follow existing guidance which is to assign with audio/aiff and support reading from audio/x-aiff also."
 opus,audio/opus,.opus,Opus audio
-vnd.kde.karbon,application/vnd.kde.karbon,.karbon,
-vnd.kde.kformula,application/vnd.kde.kformula,.kfo,
-vnd.kidspiration,application/vnd.kidspiration,.kia,
-x-killustrator,application/x-killustrator,.kil,
-vnd.google-earth.kml+xml,application/vnd.google-earth.kml+xml,.kml,
-vnd.google-earth.kmz,application/vnd.google-earth.kmz,.kmz,
-vnd.kinar,application/vnd.kinar,.kne.knp,
-vnd.kde.kontour,application/vnd.kde.kontour,.kon,
-vnd.kde.kpresenter,application/vnd.kde.kpresenter,.kpr.kpt,
-vnd.kde.kspread,application/vnd.kde.kspread,.ksp,
-vnd.kahootz,application/vnd.kahootz,.ktr.ktz,
-vnd.kde.kword,application/vnd.kde.kword,.kwd.kwt,
-x-latex,application/x-latex,.latex,
-vnd.llamagraphics.life-balance.desktop,application/vnd.llamagraphics.life-balance.desktop,.lbd,
-vnd.llamagraphics.life-balance.exchange+xml,application/vnd.llamagraphics.life-balance.exchange+xml,.lbe,
-vnd.hhe.lesson-player,application/vnd.hhe.lesson-player,.les,
-vnd.route66.link66+xml,application/vnd.route66.link66+xml,.link66,
-lost+xml,application/lost+xml,.lostxml,
-vnd.ms-lrm,application/vnd.ms-lrm,.lrm,
-vnd.frogans.ltf,application/vnd.frogans.ltf,.ltf,
-vnd.lucent.voice,audio/vnd.lucent.voice,.lvp,
-vnd.lotus-wordpro,application/vnd.lotus-wordpro,.lwp,
-x-msmediaview,application/x-msmediaview,.m13.m14.mvb,
-mpeg,video/mpeg,.m1v.m2v.mpa.mpe.mpeg.mpg,MPEG Video,
+vnd.kde.karbon,application/vnd.kde.karbon,.karbon
+vnd.kde.kformula,application/vnd.kde.kformula,.kfo
+vnd.kidspiration,application/vnd.kidspiration,.kia
+x-killustrator,application/x-killustrator,.kil
+vnd.google-earth.kml+xml,application/vnd.google-earth.kml+xml,.kml
+vnd.google-earth.kmz,application/vnd.google-earth.kmz,.kmz
+vnd.kinar,application/vnd.kinar,.kne.knp
+vnd.kde.kontour,application/vnd.kde.kontour,.kon
+vnd.kde.kpresenter,application/vnd.kde.kpresenter,.kpr.kpt
+vnd.kde.kspread,application/vnd.kde.kspread,.ksp
+vnd.kahootz,application/vnd.kahootz,.ktr.ktz
+vnd.kde.kword,application/vnd.kde.kword,.kwd.kwt
+x-latex,application/x-latex,.latex
+vnd.llamagraphics.life-balance.desktop,application/vnd.llamagraphics.life-balance.desktop,.lbd
+vnd.llamagraphics.life-balance.exchange+xml,application/vnd.llamagraphics.life-balance.exchange+xml,.lbe
+vnd.hhe.lesson-player,application/vnd.hhe.lesson-player,.les
+vnd.route66.link66+xml,application/vnd.route66.link66+xml,.link66
+lost+xml,application/lost+xml,.lostxml
+vnd.ms-lrm,application/vnd.ms-lrm,.lrm
+vnd.frogans.ltf,application/vnd.frogans.ltf,.ltf
+vnd.lucent.voice,audio/vnd.lucent.voice,.lvp
+vnd.lotus-wordpro,application/vnd.lotus-wordpro,.lwp
+x-msmediaview,application/x-msmediaview,.m13.m14.mvb
+mpeg,video/mpeg,.m1v.m2v.mpa.mpe.mpeg.mpg,MPEG Video
 mpeg,audio/mpeg,.m2a.m3a.mp2.mp2a.mp3.mpga,"MP3 is the name commonly given to the audio formats specified by MPEG-1 Layer III and MPEG-2 Layer III, standardized as ISO/IEC 11172-3:1993, with some additions in ISO/IEC 13818-3:1995. It uses lossy compressed data.<br /><br />MP3 is based in part on work by the Fraunhofer Institute, which held patents in the format. Other companies may also have held patents encumbering its implementation. One of the relevant patents was <a href=""http://www.google.com/patents/US5812672"" target=""_blank"">U.S. Patent 5,812,672</a>, which expired in September 2015; many other related patents in various countries expired earlier. The final expiration of all relevant patents took until 2017, however, due to some ""submarine patents"" which were kept in the application process for years, extending their expiration dates. A modified version of DCT compression (Discrete cosine transform) is used, a lossy compression method also used in <a href=""/image/jpeg"">JPEG images</a>.<br /><br />ID3 tags are often used to provide metadata in MP3 files, though they aren't part of the MP3 specification."
-x-mpegurl,audio/x-mpegurl,.m3u,
-vnd.mpegurl,video/vnd.mpegurl,.m4u.mxu,
-x-m4v,video/x-m4v,.m4v,
-mathematica,application/mathematica,.ma.mb.nb,
-vnd.ecowin.chart,application/vnd.ecowin.chart,.mag,
-troff,text/troff,.man.me.ms.roff.t.tr,
-mathml+xml,application/mathml+xml,.mathml.mml,
-mathml,text/mathml,.mathml.mml,
+x-mpegurl,audio/x-mpegurl,.m3u
+vnd.mpegurl,video/vnd.mpegurl,.m4u.mxu
+x-m4v,video/x-m4v,.m4v
+mathematica,application/mathematica,.ma.mb.nb
+vnd.ecowin.chart,application/vnd.ecowin.chart,.mag
+troff,text/troff,.man.me.ms.roff.t.tr
+mathml+xml,application/mathml+xml,.mathml.mml
+mathml,text/mathml,.mathml.mml
 vnd.sqlite3,application/vnd.sqlite3,.db.sqlite.sqlite3.db-wal.sqlite-wal.db-shm.sqlite-shm,"SQLite is a self-contained, serverless, zero-configuration, transactional SQL database engine. The code for SQLite is in the public domain and is thus free for use for any purpose, commercial or private."
 x-sqlite3,application/x-sqlite3,.db.sqlite.sqlite3.db-wal.sqlite-wal.db-shm.sqlite-shm,"SQLite is a self-contained, serverless, zero-configuration, transactional SQL database engine. The code for SQLite is in the public domain and is thus free for use for any purpose, commercial or private."
-vnd.mobius.mbk,application/vnd.mobius.mbk,.mbk,
-mbox,application/mbox,.mbox,
-vnd.medcalcdata,application/vnd.medcalcdata,.mc1,
-vnd.mcd,application/vnd.mcd,.mcd,
-vnd.curl.mcurl,text/vnd.curl.mcurl,.mcurl,
-x-msaccess,application/x-msaccess,.mdb,
-vnd.ms-modi,image/vnd.ms-modi,.mdi,
-mesh,model/mesh,.mesh.msh.silo,
-vnd.mfmp,application/vnd.mfmp,.mfm,
-vnd.proteus.magazine,application/vnd.proteus.magazine,.mgz,
-vnd.mif,application/vnd.mif,.mif,
-mj2,video/mj2,.mj2.mjp2,
-vnd.dolby.mlp,application/vnd.dolby.mlp,.mlp,
-vnd.chipnuts.karaoke-mmd,application/vnd.chipnuts.karaoke-mmd,.mmd,
-vnd.smaf,application/vnd.smaf,.mmf,
-vnd.fujixerox.edmics-mmr,image/vnd.fujixerox.edmics-mmr,.mmr,
-x-msmoney,application/x-msmoney,.mny,
-x-mobipocket-ebook,application/x-mobipocket-ebook,.mobi.prc,
-quicktime,video/quicktime,.mov.qt,
-x-sgi-movie,video/x-sgi-movie,.movie,
+vnd.mobius.mbk,application/vnd.mobius.mbk,.mbk
+mbox,application/mbox,.mbox
+vnd.medcalcdata,application/vnd.medcalcdata,.mc1
+vnd.mcd,application/vnd.mcd,.mcd
+vnd.curl.mcurl,text/vnd.curl.mcurl,.mcurl
+x-msaccess,application/x-msaccess,.mdb
+vnd.ms-modi,image/vnd.ms-modi,.mdi
+mesh,model/mesh,.mesh.msh.silo
+vnd.mfmp,application/vnd.mfmp,.mfm
+vnd.proteus.magazine,application/vnd.proteus.magazine,.mgz
+vnd.mif,application/vnd.mif,.mif
+mj2,video/mj2,.mj2.mjp2
+vnd.dolby.mlp,application/vnd.dolby.mlp,.mlp
+vnd.chipnuts.karaoke-mmd,application/vnd.chipnuts.karaoke-mmd,.mmd
+vnd.smaf,application/vnd.smaf,.mmf
+vnd.fujixerox.edmics-mmr,image/vnd.fujixerox.edmics-mmr,.mmr
+x-msmoney,application/x-msmoney,.mny
+x-mobipocket-ebook,application/x-mobipocket-ebook,.mobi.prc
+quicktime,video/quicktime,.mov.qt
+x-sgi-movie,video/x-sgi-movie,.movie
 mp4,video/mp4,.mp4.mp4v.mpg4,"MP4 usually refers to the multimedia file format defined in Part 14 (and to a lesser extent Part 1) of the MPEG-4 standard. ""MP4"" could also mean the entire MPEG-4 standard, or some other subset of MPEG-4. MPEG-4 Part 14 is an application of Part 12. The recommended extension for it is "".mp4"", though "".m4a"" is often used for audio-only files. It is standardized by ISO/IEC 14496-14."
 x-iso9660-image,application/x-iso9660-image,.iso.isoimg.cdr,"An ISO image is a file containing an image of an optical disc (CD, DVD, etc.), which can be stored and transferred on other media. It is an uncompressed image containing all the data on the CD. (However, audio CDs are unable to be stored in this format because of technical differences in that format; the DDP or CUE and BIN formats can be used instead.) It usually uses the ISO 9660 filesystem, but UDF and Apple Partition Map may also be used."
 yaml,application/yaml,.yaml.yml,"YAML (YAML Ainâ€™t Markup Language) is a serialization format. It is a strict superset of JSON, with the addition of syntactically significant newlines and indentation, like Python. Unlike Python, however, YAML doesnâ€™t allow literal tab characters for indentation. It is designed to be human-friendly and work well with modern programming languages for common everyday tasks. It is broadly useful for programming needs ranging from configuration files to Internet messaging to object persistence to data auditing. Together with the Unicode standard for characters, it is also well-suited for internationalization."
-mp4,application/mp4,.mp4s,
-vnd.mophun.certificate,application/vnd.mophun.certificate,.mpc,
-vnd.apple.installer+xml,application/vnd.apple.installer+xml,.mpkg,
-vnd.blueice.multipass,application/vnd.blueice.multipass,.mpm,
-vnd.mophun.application,application/vnd.mophun.application,.mpn,
-vnd.ms-project,application/vnd.ms-project,.mpp.mpt,
-vnd.ibm.minipay,application/vnd.ibm.minipay,.mpy,
-vnd.mobius.mqy,application/vnd.mobius.mqy,.mqy,
-marc,application/marc,.mrc,
-mediaservercontrol+xml,application/mediaservercontrol+xml,.mscml,
-vnd.fdsn.mseed,application/vnd.fdsn.mseed,.mseed,
-vnd.mseq,application/vnd.mseq,.mseq,
-vnd.epson.msf,application/vnd.epson.msf,.msf,
-vnd.mobius.msl,application/vnd.mobius.msl,.msl,
-vnd.muvee.style,application/vnd.muvee.style,.msty,
-vnd.mts,model/vnd.mts,.mts,
-vnd.musician,application/vnd.musician,.mus,
-vnd.recordare.musicxml+xml,application/vnd.recordare.musicxml+xml,.musicxml,
-vnd.mfer,application/vnd.mfer,.mwf,
-mxf,application/mxf,.mxf,
-vnd.recordare.musicxml,application/vnd.recordare.musicxml,.mxl,
-xv+xml,application/xv+xml,.mxml.xhvml.xvm.xvml,
-vnd.triscape.mxs,application/vnd.triscape.mxs,.mxs,
-vnd.nokia.n-gage.symbian.install,application/vnd.nokia.n-gage.symbian.install,.n-gage,
-x-dtbncx+xml,application/x-dtbncx+xml,.ncx,
-vnd.nokia.n-gage.data,application/vnd.nokia.n-gage.data,.ngdat,
-vnd.neurolanguage.nlu,application/vnd.neurolanguage.nlu,.nlu,
-vnd.enliven,application/vnd.enliven,.nml,
-vnd.noblenet-directory,application/vnd.noblenet-directory,.nnd,
-vnd.noblenet-sealer,application/vnd.noblenet-sealer,.nns,
-vnd.noblenet-web,application/vnd.noblenet-web,.nnw,
-vnd.net-fpx,image/vnd.net-fpx,.npx,
-vnd.lotus-notes,application/vnd.lotus-notes,.nsf,
-vnd.fujitsu.oasys2,application/vnd.fujitsu.oasys2,.oa2,
-vnd.fujitsu.oasys3,application/vnd.fujitsu.oasys3,.oa3,
-vnd.fujitsu.oasys,application/vnd.fujitsu.oasys,.oas,
-x-msbinder,application/x-msbinder,.obd,
-oda,application/oda,.oda,Open Document Architecture,
-vnd.oasis.opendocument.database,application/vnd.oasis.opendocument.database,.odb,
-vnd.oasis.opendocument.chart,application/vnd.oasis.opendocument.chart,.odc,
-vnd.oasis.opendocument.formula,application/vnd.oasis.opendocument.formula,.odf,
-vnd.oasis.opendocument.formula-template,application/vnd.oasis.opendocument.formula-template,.odft,
-vnd.oasis.opendocument.graphics,application/vnd.oasis.opendocument.graphics,.odg,
-vnd.oasis.opendocument.image,application/vnd.oasis.opendocument.image,.odi,
-vnd.oasis.opendocument.presentation,application/vnd.oasis.opendocument.presentation,.odp,OpenDocuemnt presentation document,
-vnd.oasis.opendocument.spreadsheet,application/vnd.oasis.opendocument.spreadsheet,.ods,OpenDocuemnt spreadsheet document,
-vnd.oasis.opendocument.text,application/vnd.oasis.opendocument.text,.odt,OpenDocument text document,
-ogg,audio/ogg,.oga.ogg.spx,
+mp4,application/mp4,.mp4s
+vnd.mophun.certificate,application/vnd.mophun.certificate,.mpc
+vnd.apple.installer+xml,application/vnd.apple.installer+xml,.mpkg
+vnd.blueice.multipass,application/vnd.blueice.multipass,.mpm
+vnd.mophun.application,application/vnd.mophun.application,.mpn
+vnd.ms-project,application/vnd.ms-project,.mpp.mpt
+vnd.ibm.minipay,application/vnd.ibm.minipay,.mpy
+vnd.mobius.mqy,application/vnd.mobius.mqy,.mqy
+marc,application/marc,.mrc
+mediaservercontrol+xml,application/mediaservercontrol+xml,.mscml
+vnd.fdsn.mseed,application/vnd.fdsn.mseed,.mseed
+vnd.mseq,application/vnd.mseq,.mseq
+vnd.epson.msf,application/vnd.epson.msf,.msf
+vnd.mobius.msl,application/vnd.mobius.msl,.msl
+vnd.muvee.style,application/vnd.muvee.style,.msty
+vnd.mts,model/vnd.mts,.mts
+vnd.musician,application/vnd.musician,.mus
+vnd.recordare.musicxml+xml,application/vnd.recordare.musicxml+xml,.musicxml
+vnd.mfer,application/vnd.mfer,.mwf
+mxf,application/mxf,.mxf
+vnd.recordare.musicxml,application/vnd.recordare.musicxml,.mxl
+xv+xml,application/xv+xml,.mxml.xhvml.xvm.xvml
+vnd.triscape.mxs,application/vnd.triscape.mxs,.mxs
+vnd.nokia.n-gage.symbian.install,application/vnd.nokia.n-gage.symbian.install,.n-gage
+x-dtbncx+xml,application/x-dtbncx+xml,.ncx
+vnd.nokia.n-gage.data,application/vnd.nokia.n-gage.data,.ngdat
+vnd.neurolanguage.nlu,application/vnd.neurolanguage.nlu,.nlu
+vnd.enliven,application/vnd.enliven,.nml
+vnd.noblenet-directory,application/vnd.noblenet-directory,.nnd
+vnd.noblenet-sealer,application/vnd.noblenet-sealer,.nns
+vnd.noblenet-web,application/vnd.noblenet-web,.nnw
+vnd.net-fpx,image/vnd.net-fpx,.npx
+vnd.lotus-notes,application/vnd.lotus-notes,.nsf
+vnd.fujitsu.oasys2,application/vnd.fujitsu.oasys2,.oa2
+vnd.fujitsu.oasys3,application/vnd.fujitsu.oasys3,.oa3
+vnd.fujitsu.oasys,application/vnd.fujitsu.oasys,.oas
+x-msbinder,application/x-msbinder,.obd
+oda,application/oda,.oda,Open Document Architecture
+vnd.oasis.opendocument.database,application/vnd.oasis.opendocument.database,.odb
+vnd.oasis.opendocument.chart,application/vnd.oasis.opendocument.chart,.odc
+vnd.oasis.opendocument.formula,application/vnd.oasis.opendocument.formula,.odf
+vnd.oasis.opendocument.formula-template,application/vnd.oasis.opendocument.formula-template,.odft
+vnd.oasis.opendocument.graphics,application/vnd.oasis.opendocument.graphics,.odg
+vnd.oasis.opendocument.image,application/vnd.oasis.opendocument.image,.odi
+vnd.oasis.opendocument.presentation,application/vnd.oasis.opendocument.presentation,.odp,OpenDocuemnt presentation document
+vnd.oasis.opendocument.spreadsheet,application/vnd.oasis.opendocument.spreadsheet,.ods,OpenDocuemnt spreadsheet document
+vnd.oasis.opendocument.text,application/vnd.oasis.opendocument.text,.odt,OpenDocument text document
+ogg,audio/ogg,.oga.ogg.spx
 x-matroska,video/x-matroska,.mkv,Matroska (sometimes spelled MatroÅ¡ka) is an open standard multimedia container format. It is based on the EBML metaformat and can be used with a variety of compressed video formats.
 x-matroska,audio/x-matroska,.mka,"Matroska Audio files consist of a Matroska container containing one or more audio files compressed with one of the supported codecs. As well as the compressed audio, a Matroska Audio file might also contain embedded lyrics or transcriptions, in the form of SRT subtitles. In addition, Matroska Audio files can be separated into tracks or chapters - it is possible, for example, to contain a whole album or audiobook in a single file while retaining clear separation between tracks."
-ogg,video/ogg,.ogv,
-ogg,application/ogg,.ogx,
-onenote,application/onenote,.onepkg.onetmp.onetoc.onetoc2,
-oebps-package+xml,application/oebps-package+xml,.opf,
-vnd.palm,application/vnd.palm,.oprc.pdb.pqa,
-vnd.lotus-organizer,application/vnd.lotus-organizer,.org,
-vnd.yamaha.openscoreformat,application/vnd.yamaha.openscoreformat,.osf,
-vnd.yamaha.openscoreformat.osfpvg+xml,application/vnd.yamaha.openscoreformat.osfpvg+xml,.osfpvg,
-vnd.oasis.opendocument.chart-template,application/vnd.oasis.opendocument.chart-template,.otc,
+ogg,video/ogg,.ogv
+ogg,application/ogg,.ogx
+onenote,application/onenote,.onepkg.onetmp.onetoc.onetoc2
+oebps-package+xml,application/oebps-package+xml,.opf
+vnd.palm,application/vnd.palm,.oprc.pdb.pqa
+vnd.lotus-organizer,application/vnd.lotus-organizer,.org
+vnd.yamaha.openscoreformat,application/vnd.yamaha.openscoreformat,.osf
+vnd.yamaha.openscoreformat.osfpvg+xml,application/vnd.yamaha.openscoreformat.osfpvg+xml,.osfpvg
+vnd.oasis.opendocument.chart-template,application/vnd.oasis.opendocument.chart-template,.otc
 woff,font/woff,.woff,Web Open Font Format (WOFF)
 woff2,font/woff2,.woff2,Web Open Font Format (WOFF)
-x-redhat-package-manager,application/x-redhat-package-manager,.rpa,
-x-perl,application/x-perl,.pm.pl,
+x-redhat-package-manager,application/x-redhat-package-manager,.rpa
+x-perl,application/x-perl,.pm.pl
 webm,audio/webm,.weba,WEBM audio
 webm,video/webm,.webm,"WebM is a video and audio container format released by Google, used with content encoded under the VP8 or VP9 codecs for video, and Vorbis and Opus for audio. It is a variant of Matroska, based on EBML."
 webp,image/webp,.webp,WEBP image
-x-font-otf,application/x-font-otf,.otf,
-otf,font/otf,.otf,
-vnd.oasis.opendocument.graphics-template,application/vnd.oasis.opendocument.graphics-template,.otg,
-vnd.oasis.opendocument.text-web,application/vnd.oasis.opendocument.text-web,.oth,
-vnd.oasis.opendocument.image-template,application/vnd.oasis.opendocument.image-template,.oti,
-vnd.oasis.opendocument.text-master,application/vnd.oasis.opendocument.text-master,.otm,
-vnd.oasis.opendocument.presentation-template,application/vnd.oasis.opendocument.presentation-template,.otp,
-vnd.oasis.opendocument.spreadsheet-template,application/vnd.oasis.opendocument.spreadsheet-template,.ots,
-vnd.oasis.opendocument.text-template,application/vnd.oasis.opendocument.text-template,.ott,
-vnd.openofficeorg.extension,application/vnd.openofficeorg.extension,.oxt,
+x-font-otf,application/x-font-otf,.otf
+otf,font/otf,.otf
+vnd.oasis.opendocument.graphics-template,application/vnd.oasis.opendocument.graphics-template,.otg
+vnd.oasis.opendocument.text-web,application/vnd.oasis.opendocument.text-web,.oth
+vnd.oasis.opendocument.image-template,application/vnd.oasis.opendocument.image-template,.oti
+vnd.oasis.opendocument.text-master,application/vnd.oasis.opendocument.text-master,.otm
+vnd.oasis.opendocument.presentation-template,application/vnd.oasis.opendocument.presentation-template,.otp
+vnd.oasis.opendocument.spreadsheet-template,application/vnd.oasis.opendocument.spreadsheet-template,.ots
+vnd.oasis.opendocument.text-template,application/vnd.oasis.opendocument.text-template,.ott
+vnd.openofficeorg.extension,application/vnd.openofficeorg.extension,.oxt
 x-pascal,text/x-pascal,.p.pas.pp.inc,"Pascal is an influential imperative and procedural programming language, designed in 1968â€“1969 and published in 1970. Borland's Turbo Pascal, and the later Borland Pascal, were popular in the 1980s and early 1990s on the PC/MS-DOS platform (CP/M versions were also released)."
-pkcs10,application/pkcs10,.p10,
-x-pkcs12,application/x-pkcs12,.p12.pfx,
-x-pkcs7-certificates,application/x-pkcs7-certificates,.p7b.spc,
-pkcs7-mime,application/pkcs7-mime,.p7c.p7m,
+pkcs10,application/pkcs10,.p10
+x-pkcs12,application/x-pkcs12,.p12.pfx
+x-pkcs7-certificates,application/x-pkcs7-certificates,.p7b.spc
+pkcs7-mime,application/pkcs7-mime,.p7c.p7m
 x-pkcs7-certreqresp,application/x-pkcs7-certreqresp,.p7r,x-pkcs7-certreqresp and the .p7r extension were also introduced by Microsoft. Likely yet another alias for pkcs7-mime.
-pkcs7-signature,application/pkcs7-signature,.p7s,
-vnd.powerbuilder6,application/vnd.powerbuilder6,.pbd,
-x-portable-bitmap,image/x-portable-bitmap,.pbm,
-x-font-pcf,application/x-font-pcf,.pcf,
-vnd.hp-pcl,application/vnd.hp-pcl,.pcl,
-vnd.hp-pclxl,application/vnd.hp-pclxl,.pclxl,
-x-pict,image/x-pict,.pct.pic,
-vnd.curl.pcurl,application/vnd.curl.pcurl,.pcurl,
-x-pcx,image/x-pcx,.pcx,
+pkcs7-signature,application/pkcs7-signature,.p7s
+vnd.powerbuilder6,application/vnd.powerbuilder6,.pbd
+x-portable-bitmap,image/x-portable-bitmap,.pbm
+x-font-pcf,application/x-font-pcf,.pcf
+vnd.hp-pcl,application/vnd.hp-pcl,.pcl
+vnd.hp-pclxl,application/vnd.hp-pclxl,.pclxl
+x-pict,image/x-pict,.pct.pic
+vnd.curl.pcurl,application/vnd.curl.pcurl,.pcurl
+x-pcx,image/x-pcx,.pcx
 pdf,application/pdf,.pdf,"Portable Document Format (PDF) is a document file format originally from Adobe, based on PostScript. It has many subsets."
-font-tdpfr,application/font-tdpfr,.pfr,
-x-portable-graymap,image/x-portable-graymap,.pgm,
-x-chess-pgn,application/x-chess-pgn,.pgn,
-pgp-encrypted,application/pgp-encrypted,.pgp,
-pkixcmp,application/pkixcmp,.pki,
-pkix-pkipath,application/pkix-pkipath,.pkipath,
-vnd.3gpp.pic-bw-large,application/vnd.3gpp.pic-bw-large,.plb,
-vnd.mobius.plc,application/vnd.mobius.plc,.plc,
-vnd.pocketlearn,application/vnd.pocketlearn,.plf,
-pls+xml,application/pls+xml,.pls,
-vnd.ctc-posml,application/vnd.ctc-posml,.pml,
+font-tdpfr,application/font-tdpfr,.pfr
+x-portable-graymap,image/x-portable-graymap,.pgm
+x-chess-pgn,application/x-chess-pgn,.pgn
+pgp-encrypted,application/pgp-encrypted,.pgp
+pkixcmp,application/pkixcmp,.pki
+pkix-pkipath,application/pkix-pkipath,.pkipath
+vnd.3gpp.pic-bw-large,application/vnd.3gpp.pic-bw-large,.plb
+vnd.mobius.plc,application/vnd.mobius.plc,.plc
+vnd.pocketlearn,application/vnd.pocketlearn,.plf
+pls+xml,application/pls+xml,.pls
+vnd.ctc-posml,application/vnd.ctc-posml,.pml
 png,image/png,.png,"Portable Network Graphics (PNG) was devised starting in a discussion on newsgroup comp.graphics in 1995, with the first version of its specification released in 1996. The motivation for its creation was to create a free and unencumbered image format in the wake of the patent issue with GIF."
-x-portable-anymap,image/x-portable-anymap,.pnm,
-vnd.macports.portpkg,application/vnd.macports.portpkg,.portpkg,
-vnd.ms-powerpoint,application/vnd.ms-powerpoint,.pot.ppa.pps.ppt.pwz,Microsoft PowerPoint,
-vnd.ms-powerpoint.template.macroenabled.12,application/vnd.ms-powerpoint.template.macroenabled.12,.potm,
-vnd.openxmlformats-officedocument.presentationml.template,application/vnd.openxmlformats-officedocument.presentationml.template,.potx,
-vnd.ms-powerpoint.addin.macroenabled.12,application/vnd.ms-powerpoint.addin.macroenabled.12,.ppam,
-vnd.cups-ppd,application/vnd.cups-ppd,.ppd,
-x-portable-pixmap,image/x-portable-pixmap,.ppm,
-vnd.ms-powerpoint.slideshow.macroenabled.12,application/vnd.ms-powerpoint.slideshow.macroenabled.12,.ppsm,
-vnd.openxmlformats-officedocument.presentationml.slideshow,application/vnd.openxmlformats-officedocument.presentationml.slideshow,.ppsx,
-vnd.ms-powerpoint.presentation.macroenabled.12,application/vnd.ms-powerpoint.presentation.macroenabled.12,.pptm,
-vnd.openxmlformats-officedocument.presentationml.presentation,application/vnd.openxmlformats-officedocument.presentationml.presentation,.pptx,
-vnd.lotus-freelance,application/vnd.lotus-freelance,.pre,
-pics-rules,application/pics-rules,.prf,
+x-portable-anymap,image/x-portable-anymap,.pnm
+vnd.macports.portpkg,application/vnd.macports.portpkg,.portpkg
+vnd.ms-powerpoint,application/vnd.ms-powerpoint,.pot.ppa.pps.ppt.pwz,Microsoft PowerPoint
+vnd.ms-powerpoint.template.macroenabled.12,application/vnd.ms-powerpoint.template.macroenabled.12,.potm
+vnd.openxmlformats-officedocument.presentationml.template,application/vnd.openxmlformats-officedocument.presentationml.template,.potx
+vnd.ms-powerpoint.addin.macroenabled.12,application/vnd.ms-powerpoint.addin.macroenabled.12,.ppam
+vnd.cups-ppd,application/vnd.cups-ppd,.ppd
+x-portable-pixmap,image/x-portable-pixmap,.ppm
+vnd.ms-powerpoint.slideshow.macroenabled.12,application/vnd.ms-powerpoint.slideshow.macroenabled.12,.ppsm
+vnd.openxmlformats-officedocument.presentationml.slideshow,application/vnd.openxmlformats-officedocument.presentationml.slideshow,.ppsx
+vnd.ms-powerpoint.presentation.macroenabled.12,application/vnd.ms-powerpoint.presentation.macroenabled.12,.pptm
+vnd.openxmlformats-officedocument.presentationml.presentation,application/vnd.openxmlformats-officedocument.presentationml.presentation,.pptx
+vnd.lotus-freelance,application/vnd.lotus-freelance,.pre
+pics-rules,application/pics-rules,.prf
 prql,application/prql,.prql,"PRQL is a modern language for transforming data â€” a simple, powerful, pipelined SQL replacement."
-vnd.3gpp.pic-bw-small,application/vnd.3gpp.pic-bw-small,.psb,
-vnd.adobe.photoshop,image/vnd.adobe.photoshop,.psd,
-x-font-linux-psf,application/x-font-linux-psf,.psf,
-vnd.pvi.ptid1,application/vnd.pvi.ptid1,.ptid,
-x-mspublisher,application/x-mspublisher,.pub,
-vnd.3gpp.pic-bw-var,application/vnd.3gpp.pic-bw-var,.pvb,
-vnd.3m.post-it-notes,application/vnd.3m.post-it-notes,.pwn,
-x-python,text/x-python,.py,
-vnd.ms-playready.media.pya,audio/vnd.ms-playready.media.pya,.pya,
-x-python-code,application/x-python-code,.pyc.pyo,
-vnd.ms-playready.media.pyv,video/vnd.ms-playready.media.pyv,.pyv,
-vnd.epson.quickanime,application/vnd.epson.quickanime,.qam,
-vnd.intu.qbo,application/vnd.intu.qbo,.qbo,
-vnd.intu.qfx,application/vnd.intu.qfx,.qfx,
-vnd.publishare-delta-tree,application/vnd.publishare-delta-tree,.qps,
-vnd.quark.quarkxpress,application/vnd.quark.quarkxpress,.qwd.qwt.qxb.qxd.qxl.qxt,
-x-pn-realaudio,audio/x-pn-realaudio,.ra.ram,
+vnd.3gpp.pic-bw-small,application/vnd.3gpp.pic-bw-small,.psb
+vnd.adobe.photoshop,image/vnd.adobe.photoshop,.psd
+x-font-linux-psf,application/x-font-linux-psf,.psf
+vnd.pvi.ptid1,application/vnd.pvi.ptid1,.ptid
+x-mspublisher,application/x-mspublisher,.pub
+vnd.3gpp.pic-bw-var,application/vnd.3gpp.pic-bw-var,.pvb
+vnd.3m.post-it-notes,application/vnd.3m.post-it-notes,.pwn
+x-python,text/x-python,.py
+vnd.ms-playready.media.pya,audio/vnd.ms-playready.media.pya,.pya
+x-python-code,application/x-python-code,.pyc.pyo
+vnd.ms-playready.media.pyv,video/vnd.ms-playready.media.pyv,.pyv
+vnd.epson.quickanime,application/vnd.epson.quickanime,.qam
+vnd.intu.qbo,application/vnd.intu.qbo,.qbo
+vnd.intu.qfx,application/vnd.intu.qfx,.qfx
+vnd.publishare-delta-tree,application/vnd.publishare-delta-tree,.qps
+vnd.quark.quarkxpress,application/vnd.quark.quarkxpress,.qwd.qwt.qxb.qxd.qxl.qxt
+x-pn-realaudio,audio/x-pn-realaudio,.ra.ram
 vnd.rar,application/vnd.rar,.rar,"<strong>R</strong>oshal <strong>AR</strong>chive (RAR) is a proprietary file format used by the compression software WinRAR. They make the decompression code available for use in other programs and allow its distribution, but with a license provision that ""You cannot use the unrar source to re-create the RAR compression algorithm, which is proprietary."
 x-rar-compressed,application/x-rar-compressed,.rar,"<strong>R</strong>oshal <strong>AR</strong>chive (RAR) is a proprietary file format used by the compression software WinRAR. They make the decompression code available for use in other programs and allow its distribution, but with a license provision that ""You cannot use the unrar source to re-create the RAR compression algorithm, which is proprietary."
-x-cmu-raster,image/x-cmu-raster,.ras,
-vnd.ipunplugged.rcprofile,application/vnd.ipunplugged.rcprofile,.rcprofile,
-rdf+xml,application/rdf+xml,.rdf,
-vnd.data-vision.rdz,application/vnd.data-vision.rdz,.rdz,
-vnd.businessobjects,application/vnd.businessobjects,.rep,
-x-dtbresource+xml,application/x-dtbresource+xml,.res,
-x-rgb,image/x-rgb,.rgb,
-reginfo+xml,application/reginfo+xml,.rif,
-resource-lists+xml,application/resource-lists+xml,.rl,
-vnd.fujixerox.edmics-rlc,image/vnd.fujixerox.edmics-rlc,.rlc,
-resource-lists-diff+xml,application/resource-lists-diff+xml,.rld,
-vnd.rn-realmedia,application/vnd.rn-realmedia,.rm,
-x-pn-realaudio-plugin,audio/x-pn-realaudio-plugin,.rmp,
-vnd.jcp.javame.midlet-rms,application/vnd.jcp.javame.midlet-rms,.rms,
-relax-ng-compact-syntax,application/relax-ng-compact-syntax,.rnc,
-x-rpm,application/x-rpm,.rpm,
-vnd.nokia.radio-presets,application/vnd.nokia.radio-presets,.rpss,
-vnd.nokia.radio-preset,application/vnd.nokia.radio-preset,.rpst,
-sparql-query,application/sparql-query,.rq,
-rls-services+xml,application/rls-services+xml,.rs,
-rsd+xml,application/rsd+xml,.rsd,
+x-cmu-raster,image/x-cmu-raster,.ras
+vnd.ipunplugged.rcprofile,application/vnd.ipunplugged.rcprofile,.rcprofile
+rdf+xml,application/rdf+xml,.rdf
+vnd.data-vision.rdz,application/vnd.data-vision.rdz,.rdz
+vnd.businessobjects,application/vnd.businessobjects,.rep
+x-dtbresource+xml,application/x-dtbresource+xml,.res
+x-rgb,image/x-rgb,.rgb
+reginfo+xml,application/reginfo+xml,.rif
+resource-lists+xml,application/resource-lists+xml,.rl
+vnd.fujixerox.edmics-rlc,image/vnd.fujixerox.edmics-rlc,.rlc
+resource-lists-diff+xml,application/resource-lists-diff+xml,.rld
+vnd.rn-realmedia,application/vnd.rn-realmedia,.rm
+x-pn-realaudio-plugin,audio/x-pn-realaudio-plugin,.rmp
+vnd.jcp.javame.midlet-rms,application/vnd.jcp.javame.midlet-rms,.rms
+relax-ng-compact-syntax,application/relax-ng-compact-syntax,.rnc
+x-rpm,application/x-rpm,.rpm
+vnd.nokia.radio-presets,application/vnd.nokia.radio-presets,.rpss
+vnd.nokia.radio-preset,application/vnd.nokia.radio-preset,.rpst
+sparql-query,application/sparql-query,.rq
+rls-services+xml,application/rls-services+xml,.rs
+rsd+xml,application/rsd+xml,.rsd
 rss+xml,application/rss+xml,.rss.xml,"The MIME used for RSS feeds (RSS 0.9x, 2.0, 3.0 and others). Many feeds end up being served as plain text/html however and _most_ parsers seem to be able to handle this discrepancy.    RSS is an XML-based document format for the syndication of web
    content so that it can be republished on other sites or downloaded
    periodically and presented to users. RSS is currently used for a number of applications, including news headline syndication, weblog content distribution, and the exchange of other timely information such as software release notes."
-rtf,application/rtf,.rtf,Rich Text Format (RTF),
-richtext,text/richtext,.rtx,
-vnd.yamaha.smaf-audio,application/vnd.yamaha.smaf-audio,.saf,
-sbml+xml,application/sbml+xml,.sbml,
-vnd.ibm.secure-container,application/vnd.ibm.secure-container,.sc,
-x-msschedule,application/x-msschedule,.scd,
-vnd.lotus-screencam,application/vnd.lotus-screencam,.scm,
-scvp-cv-request,application/scvp-cv-request,.scq,
-scvp-cv-response,application/scvp-cv-response,.scs,
-vnd.curl.scurl,text/vnd.curl.scurl,.scurl,
-vnd.stardivision.draw,application/vnd.stardivision.draw,.sda,
-vnd.stardivision.calc,application/vnd.stardivision.calc,.sdc,
-vnd.stardivision.impress,application/vnd.stardivision.impress,.sdd,
-vnd.solent.sdkm+xml,application/vnd.solent.sdkm+xml,.sdkd.sdkm,
-sdp,application/sdp,.sdp,
-vnd.stardivision.writer,application/vnd.stardivision.writer,.sdw.vor,
-vnd.seemail,application/vnd.seemail,.see,
-vnd.sema,application/vnd.sema,.sema,
-vnd.semd,application/vnd.semd,.semd,
-vnd.semf,application/vnd.semf,.semf,
-java-serialized-object,application/java-serialized-object,.ser,
-set-payment-initiation,application/set-payment-initiation,.setpay,
-set-registration-initiation,application/set-registration-initiation,.setreg,
-vnd.hydrostatix.sof-data,application/vnd.hydrostatix.sof-data,.sfd-hdstx,
-vnd.spotfire.sfs,application/vnd.spotfire.sfs,.sfs,
-vnd.stardivision.writer-global,application/vnd.stardivision.writer-global,.sgl,
-sgml,text/sgml,.sgm.sgml,
-x-sh,application/x-sh,.sh,Bourne shell script,
-x-shar,application/x-shar,.shar,
-shf+xml,application/shf+xml,.shf,
-vnd.wap.si,text/vnd.wap.si,.si,
-vnd.wap.sic,application/vnd.wap.sic,.sic,
-vnd.symbian.install,application/vnd.symbian.install,.sis.sisx,
-x-stuffit,application/x-stuffit,.sit,
-x-stuffitx,application/x-stuffitx,.sitx,
-vnd.koan,application/vnd.koan,.skd.skm.skp.skt,
-vnd.wap.sl,text/vnd.wap.sl,.sl,
-vnd.wap.slc,application/vnd.wap.slc,.slc,
-vnd.ms-powerpoint.slide.macroenabled.12,application/vnd.ms-powerpoint.slide.macroenabled.12,.sldm,
-vnd.openxmlformats-officedocument.presentationml.slide,application/vnd.openxmlformats-officedocument.presentationml.slide,.sldx,
-vnd.epson.salt,application/vnd.epson.salt,.slt,
-vnd.stardivision.math,application/vnd.stardivision.math,.smf,
-smil+xml,application/smil+xml,.smi.smil,
-x-font-snf,application/x-font-snf,.snf,
-vnd.yamaha.smaf-phrase,application/vnd.yamaha.smaf-phrase,.spf,
-x-futuresplash,application/x-futuresplash,.spl,
-vnd.in3d.spot,text/vnd.in3d.spot,.spot,
-scvp-vp-response,application/scvp-vp-response,.spp,
-scvp-vp-request,application/scvp-vp-request,.spq,
-x-wais-source,application/x-wais-source,.src,
-sparql-results+xml,application/sparql-results+xml,.srx,
-vnd.kodak-descriptor,application/vnd.kodak-descriptor,.sse,
-vnd.epson.ssf,application/vnd.epson.ssf,.ssf,
-ssml+xml,application/ssml+xml,.ssml,
-vnd.sun.xml.calc.template,application/vnd.sun.xml.calc.template,.stc,
-vnd.sun.xml.draw.template,application/vnd.sun.xml.draw.template,.std,
-vnd.wt.stf,application/vnd.wt.stf,.stf,
-vnd.sun.xml.impress.template,application/vnd.sun.xml.impress.template,.sti,
-hyperstudio,application/hyperstudio,.stk,
-vnd.ms-pki.stl,application/vnd.ms-pki.stl,.stl,
-vnd.pg.format,application/vnd.pg.format,.str,
-vnd.sun.xml.writer.template,application/vnd.sun.xml.writer.template,.stw,
-vnd.sus-calendar,application/vnd.sus-calendar,.sus.susp,
-x-sv4cpio,application/x-sv4cpio,.sv4cpio,
-x-sv4crc,application/x-sv4crc,.sv4crc,
-vnd.svd,application/vnd.svd,.svd,
-svg+xml,image/svg+xml,.svg.svgz,Scalable Vector Graphics (SVG),
-x-shockwave-flash,application/x-shockwave-flash,.swf,Small web format (SWF) or Adobe Flash document,
-vnd.arastra.swi,application/vnd.arastra.swi,.swi,
-vnd.sun.xml.calc,application/vnd.sun.xml.calc,.sxc,
-vnd.sun.xml.draw,application/vnd.sun.xml.draw,.sxd,
-vnd.sun.xml.writer.global,application/vnd.sun.xml.writer.global,.sxg,
-vnd.sun.xml.impress,application/vnd.sun.xml.impress,.sxi,
-vnd.sun.xml.math,application/vnd.sun.xml.math,.sxm,
-vnd.sun.xml.writer,application/vnd.sun.xml.writer,.sxw,
-vnd.tao.intent-module-archive,application/vnd.tao.intent-module-archive,.tao,
-x-tar,application/x-tar,.tar,Tape Archive (TAR),
-vnd.3gpp2.tcap,application/vnd.3gpp2.tcap,.tcap,
-x-tcl,application/x-tcl,.tcl,
-vnd.smart.teacher,application/vnd.smart.teacher,.teacher,
-x-tex,application/x-tex,.tex,
-x-texinfo,application/x-texinfo,.texi.texinfo,
-x-tex-tfm,application/x-tex-tfm,.tfm,
+rtf,application/rtf,.rtf,Rich Text Format (RTF)
+richtext,text/richtext,.rtx
+vnd.yamaha.smaf-audio,application/vnd.yamaha.smaf-audio,.saf
+sbml+xml,application/sbml+xml,.sbml
+vnd.ibm.secure-container,application/vnd.ibm.secure-container,.sc
+x-msschedule,application/x-msschedule,.scd
+vnd.lotus-screencam,application/vnd.lotus-screencam,.scm
+scvp-cv-request,application/scvp-cv-request,.scq
+scvp-cv-response,application/scvp-cv-response,.scs
+vnd.curl.scurl,text/vnd.curl.scurl,.scurl
+vnd.stardivision.draw,application/vnd.stardivision.draw,.sda
+vnd.stardivision.calc,application/vnd.stardivision.calc,.sdc
+vnd.stardivision.impress,application/vnd.stardivision.impress,.sdd
+vnd.solent.sdkm+xml,application/vnd.solent.sdkm+xml,.sdkd.sdkm
+sdp,application/sdp,.sdp
+vnd.stardivision.writer,application/vnd.stardivision.writer,.sdw.vor
+vnd.seemail,application/vnd.seemail,.see
+vnd.sema,application/vnd.sema,.sema
+vnd.semd,application/vnd.semd,.semd
+vnd.semf,application/vnd.semf,.semf
+java-serialized-object,application/java-serialized-object,.ser
+set-payment-initiation,application/set-payment-initiation,.setpay
+set-registration-initiation,application/set-registration-initiation,.setreg
+vnd.hydrostatix.sof-data,application/vnd.hydrostatix.sof-data,.sfd-hdstx
+vnd.spotfire.sfs,application/vnd.spotfire.sfs,.sfs
+vnd.stardivision.writer-global,application/vnd.stardivision.writer-global,.sgl
+sgml,text/sgml,.sgm.sgml
+x-sh,application/x-sh,.sh,Bourne shell script
+x-shar,application/x-shar,.shar
+shf+xml,application/shf+xml,.shf
+vnd.wap.si,text/vnd.wap.si,.si
+vnd.wap.sic,application/vnd.wap.sic,.sic
+vnd.symbian.install,application/vnd.symbian.install,.sis.sisx
+x-stuffit,application/x-stuffit,.sit
+x-stuffitx,application/x-stuffitx,.sitx
+vnd.koan,application/vnd.koan,.skd.skm.skp.skt
+vnd.wap.sl,text/vnd.wap.sl,.sl
+vnd.wap.slc,application/vnd.wap.slc,.slc
+vnd.ms-powerpoint.slide.macroenabled.12,application/vnd.ms-powerpoint.slide.macroenabled.12,.sldm
+vnd.openxmlformats-officedocument.presentationml.slide,application/vnd.openxmlformats-officedocument.presentationml.slide,.sldx
+vnd.epson.salt,application/vnd.epson.salt,.slt
+vnd.stardivision.math,application/vnd.stardivision.math,.smf
+smil+xml,application/smil+xml,.smi.smil
+x-font-snf,application/x-font-snf,.snf
+vnd.yamaha.smaf-phrase,application/vnd.yamaha.smaf-phrase,.spf
+x-futuresplash,application/x-futuresplash,.spl
+vnd.in3d.spot,text/vnd.in3d.spot,.spot
+scvp-vp-response,application/scvp-vp-response,.spp
+scvp-vp-request,application/scvp-vp-request,.spq
+x-wais-source,application/x-wais-source,.src
+sparql-results+xml,application/sparql-results+xml,.srx
+vnd.kodak-descriptor,application/vnd.kodak-descriptor,.sse
+vnd.epson.ssf,application/vnd.epson.ssf,.ssf
+ssml+xml,application/ssml+xml,.ssml
+vnd.sun.xml.calc.template,application/vnd.sun.xml.calc.template,.stc
+vnd.sun.xml.draw.template,application/vnd.sun.xml.draw.template,.std
+vnd.wt.stf,application/vnd.wt.stf,.stf
+vnd.sun.xml.impress.template,application/vnd.sun.xml.impress.template,.sti
+hyperstudio,application/hyperstudio,.stk
+vnd.ms-pki.stl,application/vnd.ms-pki.stl,.stl
+vnd.pg.format,application/vnd.pg.format,.str
+vnd.sun.xml.writer.template,application/vnd.sun.xml.writer.template,.stw
+vnd.sus-calendar,application/vnd.sus-calendar,.sus.susp
+x-sv4cpio,application/x-sv4cpio,.sv4cpio
+x-sv4crc,application/x-sv4crc,.sv4crc
+vnd.svd,application/vnd.svd,.svd
+svg+xml,image/svg+xml,.svg.svgz,Scalable Vector Graphics (SVG)
+x-shockwave-flash,application/x-shockwave-flash,.swf,Small web format (SWF) or Adobe Flash document
+vnd.arastra.swi,application/vnd.arastra.swi,.swi
+vnd.sun.xml.calc,application/vnd.sun.xml.calc,.sxc
+vnd.sun.xml.draw,application/vnd.sun.xml.draw,.sxd
+vnd.sun.xml.writer.global,application/vnd.sun.xml.writer.global,.sxg
+vnd.sun.xml.impress,application/vnd.sun.xml.impress,.sxi
+vnd.sun.xml.math,application/vnd.sun.xml.math,.sxm
+vnd.sun.xml.writer,application/vnd.sun.xml.writer,.sxw
+vnd.tao.intent-module-archive,application/vnd.tao.intent-module-archive,.tao
+x-tar,application/x-tar,.tar,Tape Archive (TAR)
+vnd.3gpp2.tcap,application/vnd.3gpp2.tcap,.tcap
+x-tcl,application/x-tcl,.tcl
+vnd.smart.teacher,application/vnd.smart.teacher,.teacher
+x-tex,application/x-tex,.tex
+x-texinfo,application/x-texinfo,.texi.texinfo
+x-tex-tfm,application/x-tex-tfm,.tfm
 tiff,image/tiff,.tif.tiff,"TIFF, formerly known as Tag(ged) Image File Format, is an image format capable of storing multiple high quality images in a single file. <br /><br />A TIFF image may be uncompressed or use a compression scheme internally. Two of the most widely used compression schemes in TIFF files are lossless, including LZW and, for bitonal images CCITT Group 4, as used for facsimile transmission [fax]. JPEG baseline DCT-based lossy compression is also used."
-vnd.tmobile-livetv,application/vnd.tmobile-livetv,.tmo,
-x-bittorrent,application/x-bittorrent,.torrent,
-vnd.groove-tool-template,application/vnd.groove-tool-template,.tpl,
-vnd.trid.tpt,application/vnd.trid.tpt,.tpt,
-vnd.trueapp,application/vnd.trueapp,.tra,
-x-msterminal,application/x-msterminal,.trm,
-tab-separated-values,text/tab-separated-values,.tsv,
-x-font-ttf,application/x-font-ttf,.ttc.ttf,TrueType Font,
-vnd.simtech-mindmapper,application/vnd.simtech-mindmapper,.twd.twds,
-vnd.genomatix.tuxedo,application/vnd.genomatix.tuxedo,.txd,
-vnd.mobius.txf,application/vnd.mobius.txf,.txf,
-vnd.ufdl,application/vnd.ufdl,.ufd.ufdl,
+vnd.tmobile-livetv,application/vnd.tmobile-livetv,.tmo
+x-bittorrent,application/x-bittorrent,.torrent
+vnd.groove-tool-template,application/vnd.groove-tool-template,.tpl
+vnd.trid.tpt,application/vnd.trid.tpt,.tpt
+vnd.trueapp,application/vnd.trueapp,.tra
+x-msterminal,application/x-msterminal,.trm
+tab-separated-values,text/tab-separated-values,.tsv
+x-font-ttf,application/x-font-ttf,.ttc.ttf,TrueType Font
+vnd.simtech-mindmapper,application/vnd.simtech-mindmapper,.twd.twds
+vnd.genomatix.tuxedo,application/vnd.genomatix.tuxedo,.txd
+vnd.mobius.txf,application/vnd.mobius.txf,.txf
+vnd.ufdl,application/vnd.ufdl,.ufd.ufdl
 mimetype,test/mimetype,.test,"This mimetype is a test! Ignore it, it's not real."
-vnd.umajin,application/vnd.umajin,.umj,
-vnd.unity,application/vnd.unity,.unityweb,
-vnd.uoml+xml,application/vnd.uoml+xml,.uoml,
-uri-list,text/uri-list,.uri.uris.urls,
-x-ustar,application/x-ustar,.ustar,
-vnd.uiq.theme,application/vnd.uiq.theme,.utz,
-x-uuencode,text/x-uuencode,.uu,
-x-cdlink,application/x-cdlink,.vcd,
-x-vcard,text/x-vcard,.vcf,
-vnd.groove-vcard,application/vnd.groove-vcard,.vcg,
-x-vcalendar,text/x-vcalendar,.vcs,
-vnd.vcx,application/vnd.vcx,.vcx,
-vnd.visionary,application/vnd.visionary,.vis,Microsft Visio,
-vnd.vivo,video/vnd.vivo,.viv,
-vrml,model/vrml,.vrml.wrl,
-vnd.visio,application/vnd.visio,.vsd.vss.vst.vsw.vsdx.vssx.vstx.vssm.vstm,Microsft Visio,
-vnd.vsf,application/vnd.vsf,.vsf,
-vnd.vtu,model/vnd.vtu,.vtu,
-voicexml+xml,application/voicexml+xml,.vxml,
-x-doom,application/x-doom,.wad,
+vnd.umajin,application/vnd.umajin,.umj
+vnd.unity,application/vnd.unity,.unityweb
+vnd.uoml+xml,application/vnd.uoml+xml,.uoml
+uri-list,text/uri-list,.uri.uris.urls
+x-ustar,application/x-ustar,.ustar
+vnd.uiq.theme,application/vnd.uiq.theme,.utz
+x-uuencode,text/x-uuencode,.uu
+x-cdlink,application/x-cdlink,.vcd
+x-vcard,text/x-vcard,.vcf
+vnd.groove-vcard,application/vnd.groove-vcard,.vcg
+x-vcalendar,text/x-vcalendar,.vcs
+vnd.vcx,application/vnd.vcx,.vcx
+vnd.visionary,application/vnd.visionary,.vis,Microsft Visio
+vnd.vivo,video/vnd.vivo,.viv
+vrml,model/vrml,.vrml.wrl
+vnd.visio,application/vnd.visio,.vsd.vss.vst.vsw.vsdx.vssx.vstx.vssm.vstm,Microsft Visio
+vnd.vsf,application/vnd.vsf,.vsf
+vnd.vtu,model/vnd.vtu,.vtu
+voicexml+xml,application/voicexml+xml,.vxml
+x-doom,application/x-doom,.wad
 mp2t,video/mp2t,.ts,"MPEG Transport Stream (or MPEG-2 Transport Stream) is an MPEG multimedia format that allows interleaving more than one Packetized Elementary Stream in a single file. It is an alternative to MPEG Program Stream, designed to work better with certain kinds of streaming. It was introduced in the MPEG-2 standard. There is a variant format named M2TS, used with Blu-ray discs.<br /><br />Alternatively, you got here like I did by selecting a typescript file. That's wrong, that's your browser doing that. There's no official standard for typescript."
 vnd.wav,audio/vnd.wav,.wav,"The Waveform Audio File Format (WAV or WAVE) is a widely used audio format, originally developed by Microsoft and IBM and based on the RIFF wrapper format. The usual audio encoding in a .wav file is LPCM, considered an 'uncompressed' encoding. Because of large file sizes, WAV is not well-suited for distributing audio such as songs or podcasts. WAV is used in MS-Windows to store sounds used in applications. It is also used as an archival format for first-generation (master) files, often with a metadata chunk as specified in the Broadcast Wave (BWF) standard.<br /><br />Note a contributor has discovered compatibility issues with browsers and the official type. See the attached issue for more information."
-x-ms-wax,audio/x-ms-wax,.wax,
-vnd.wap.wbmp,image/vnd.wap.wbmp,.wbmp,
-vnd.criticaltools.wbs+xml,application/vnd.criticaltools.wbs+xml,.wbs,
-vnd.wap.wbxml,application/vnd.wap.wbxml,.wbxml,
-vnd.ms-works,application/vnd.ms-works,.wcm.wdb.wks.wps,
-x-ms-wm,video/x-ms-wm,.wm,
-x-ms-wma,audio/x-ms-wma,.wma,
-x-ms-wmd,application/x-ms-wmd,.wmd,
-x-msmetafile,application/x-msmetafile,.wmf,
-vnd.wap.wml,text/vnd.wap.wml,.wml,
-vnd.wap.wmlc,application/vnd.wap.wmlc,.wmlc,
-vnd.wap.wmlscript,text/vnd.wap.wmlscript,.wmls,
-vnd.wap.wmlscriptc,application/vnd.wap.wmlscriptc,.wmlsc,
-x-ms-wmv,video/x-ms-wmv,.wmv,
-x-ms-wmx,video/x-ms-wmx,.wmx,
-x-ms-wmz,application/x-ms-wmz,.wmz,
-vnd.wordperfect,application/vnd.wordperfect,.wpd,
-vnd.ms-wpl,application/vnd.ms-wpl,.wpl,
-vnd.wqd,application/vnd.wqd,.wqd,
-x-mswrite,application/x-mswrite,.wri,
-wsdl+xml,application/wsdl+xml,.wsdl,
-wspolicy+xml,application/wspolicy+xml,.wspolicy,
-vnd.webturbo,application/vnd.webturbo,.wtb,
-x-ms-wvx,video/x-ms-wvx,.wvx,Windows Media Video Redirector file,
-vnd.hzn-3d-crossword,application/vnd.hzn-3d-crossword,.x3d,
-x-silverlight-app,application/x-silverlight-app,.xap,
-vnd.xara,application/vnd.xara,.xar,Open Vector Graphic Format,
-x-ms-xbap,application/x-ms-xbap,.xbap,
-vnd.fujixerox.docuworks.binder,application/vnd.fujixerox.docuworks.binder,.xbd,
-x-xbitmap,image/x-xbitmap,.xbm,X Bit Map,
-vnd.syncml.dm+xml,application/vnd.syncml.dm+xml,.xdm,
-vnd.adobe.xdp+xml,application/vnd.adobe.xdp+xml,.xdp,
-vnd.fujixerox.docuworks,application/vnd.fujixerox.docuworks,.xdw,
-xenc+xml,application/xenc+xml,.xenc,
-patch-ops-error+xml,application/patch-ops-error+xml,.xer,
-vnd.adobe.xfdf,application/vnd.adobe.xfdf,.xfdf,Extensible Forms Description Language,
-vnd.xfdl,application/vnd.xfdl,.xfdl,Extensible Forms Description Language,
-xhtml+xml,application/xhtml+xml,.xht.xhtml,
-vnd.xiff,image/vnd.xiff,.xif,Extended Image Format,
-vnd.ms-excel,application/vnd.ms-excel,.xla.xlb.xlc.xlm.xls.xlt.xlw,Microsoft Excel,
-vnd.ms-excel.addin.macroenabled.12,application/vnd.ms-excel.addin.macroenabled.12,.xlam,
-vnd.ms-excel.sheet.binary.macroenabled.12,application/vnd.ms-excel.sheet.binary.macroenabled.12,.xlsb,
-vnd.ms-excel.sheet.macroenabled.12,application/vnd.ms-excel.sheet.macroenabled.12,.xlsm,
-vnd.openxmlformats-officedocument.spreadsheetml.sheet,application/vnd.openxmlformats-officedocument.spreadsheetml.sheet,.xlsx,
-vnd.ms-excel.template.macroenabled.12,application/vnd.ms-excel.template.macroenabled.12,.xltm,
-vnd.openxmlformats-officedocument.spreadsheetml.template,application/vnd.openxmlformats-officedocument.spreadsheetml.template,.xltx,
-xml,application/xml,.xml.xpdl.xsl,
-vnd.olpc-sugar,application/vnd.olpc-sugar,.xo,
-xop+xml,application/xop+xml,.xop,
-x-xpinstall,application/x-xpinstall,.xpi,
-x-xpixmap,image/x-xpixmap,.xpm,
-vnd.is-xpr,application/vnd.is-xpr,.xpr,
-vnd.ms-xpsdocument,application/vnd.ms-xpsdocument,.xps,
-vnd.intercon.formnet,application/vnd.intercon.formnet,.xpw.xpx,
-xslt+xml,application/xslt+xml,.xslt,
-vnd.syncml+xml,application/vnd.syncml+xml,.xsm,
-xspf+xml,application/xspf+xml,.xspf,
-vnd.mozilla.xul+xml,application/vnd.mozilla.xul+xml,.xul,
-x-xwindowdump,image/x-xwindowdump,.xwd,
-x-xyz,chemical/x-xyz,.xyz,
-vnd.zzazz.deck+xml,application/vnd.zzazz.deck+xml,.zaz,
+x-ms-wax,audio/x-ms-wax,.wax
+vnd.wap.wbmp,image/vnd.wap.wbmp,.wbmp
+vnd.criticaltools.wbs+xml,application/vnd.criticaltools.wbs+xml,.wbs
+vnd.wap.wbxml,application/vnd.wap.wbxml,.wbxml
+vnd.ms-works,application/vnd.ms-works,.wcm.wdb.wks.wps
+x-ms-wm,video/x-ms-wm,.wm
+x-ms-wma,audio/x-ms-wma,.wma
+x-ms-wmd,application/x-ms-wmd,.wmd
+x-msmetafile,application/x-msmetafile,.wmf
+vnd.wap.wml,text/vnd.wap.wml,.wml
+vnd.wap.wmlc,application/vnd.wap.wmlc,.wmlc
+vnd.wap.wmlscript,text/vnd.wap.wmlscript,.wmls
+vnd.wap.wmlscriptc,application/vnd.wap.wmlscriptc,.wmlsc
+x-ms-wmv,video/x-ms-wmv,.wmv
+x-ms-wmx,video/x-ms-wmx,.wmx
+x-ms-wmz,application/x-ms-wmz,.wmz
+vnd.wordperfect,application/vnd.wordperfect,.wpd
+vnd.ms-wpl,application/vnd.ms-wpl,.wpl
+vnd.wqd,application/vnd.wqd,.wqd
+x-mswrite,application/x-mswrite,.wri
+wsdl+xml,application/wsdl+xml,.wsdl
+wspolicy+xml,application/wspolicy+xml,.wspolicy
+vnd.webturbo,application/vnd.webturbo,.wtb
+x-ms-wvx,video/x-ms-wvx,.wvx,Windows Media Video Redirector file
+vnd.hzn-3d-crossword,application/vnd.hzn-3d-crossword,.x3d
+x-silverlight-app,application/x-silverlight-app,.xap
+vnd.xara,application/vnd.xara,.xar,Open Vector Graphic Format
+x-ms-xbap,application/x-ms-xbap,.xbap
+vnd.fujixerox.docuworks.binder,application/vnd.fujixerox.docuworks.binder,.xbd
+x-xbitmap,image/x-xbitmap,.xbm,X Bit Map
+vnd.syncml.dm+xml,application/vnd.syncml.dm+xml,.xdm
+vnd.adobe.xdp+xml,application/vnd.adobe.xdp+xml,.xdp
+vnd.fujixerox.docuworks,application/vnd.fujixerox.docuworks,.xdw
+xenc+xml,application/xenc+xml,.xenc
+patch-ops-error+xml,application/patch-ops-error+xml,.xer
+vnd.adobe.xfdf,application/vnd.adobe.xfdf,.xfdf,Extensible Forms Description Language
+vnd.xfdl,application/vnd.xfdl,.xfdl,Extensible Forms Description Language
+xhtml+xml,application/xhtml+xml,.xht.xhtml
+vnd.xiff,image/vnd.xiff,.xif,Extended Image Format
+vnd.ms-excel,application/vnd.ms-excel,.xla.xlb.xlc.xlm.xls.xlt.xlw,Microsoft Excel
+vnd.ms-excel.addin.macroenabled.12,application/vnd.ms-excel.addin.macroenabled.12,.xlam
+vnd.ms-excel.sheet.binary.macroenabled.12,application/vnd.ms-excel.sheet.binary.macroenabled.12,.xlsb
+vnd.ms-excel.sheet.macroenabled.12,application/vnd.ms-excel.sheet.macroenabled.12,.xlsm
+vnd.openxmlformats-officedocument.spreadsheetml.sheet,application/vnd.openxmlformats-officedocument.spreadsheetml.sheet,.xlsx
+vnd.ms-excel.template.macroenabled.12,application/vnd.ms-excel.template.macroenabled.12,.xltm
+vnd.openxmlformats-officedocument.spreadsheetml.template,application/vnd.openxmlformats-officedocument.spreadsheetml.template,.xltx
+xml,application/xml,.xml.xpdl.xsl
+vnd.olpc-sugar,application/vnd.olpc-sugar,.xo
+xop+xml,application/xop+xml,.xop
+x-xpinstall,application/x-xpinstall,.xpi
+x-xpixmap,image/x-xpixmap,.xpm
+vnd.is-xpr,application/vnd.is-xpr,.xpr
+vnd.ms-xpsdocument,application/vnd.ms-xpsdocument,.xps
+vnd.intercon.formnet,application/vnd.intercon.formnet,.xpw.xpx
+xslt+xml,application/xslt+xml,.xslt
+vnd.syncml+xml,application/vnd.syncml+xml,.xsm
+xspf+xml,application/xspf+xml,.xspf
+vnd.mozilla.xul+xml,application/vnd.mozilla.xul+xml,.xul
+x-xwindowdump,image/x-xwindowdump,.xwd
+x-xyz,chemical/x-xyz,.xyz
+vnd.zzazz.deck+xml,application/vnd.zzazz.deck+xml,.zaz
 zip,application/zip,.zip,"ZIP is one of the most popular file compression formats. It was created in 1989 as the native format of the PKZIP program, which was introduced by Phil Katz in the wake of a lawsuit (which he lost) against him by the makers of the then-popular ARC program (and file format) for copyright and trademark infringement in an earlier program PKARC which had been file-compatible with ARC. <br /><br />This resulted in Katz creating a new file format, which rapidly overtook ARC in popularity (to a large extent because of BBS sysops, then the primary users of such compression, resenting the lawsuit). Many programs have been released for a variety of operating systems to compress and decompress ZIP files, and native support for the format is built into several popular operating systems."
 x-zip-compressed,application/x-zip-compressed,.zip,"ZIP is one of the most popular file compression formats. It was created in 1989 as the native format of the PKZIP program, which was introduced by Phil Katz in the wake of a lawsuit (which he lost) against him by the makers of the then-popular ARC program (and file format) for copyright and trademark infringement in an earlier program PKARC which had been file-compatible with ARC. <br /><br />This resulted in Katz creating a new file format, which rapidly overtook ARC in popularity (to a large extent because of BBS sysops, then the primary users of such compression, resenting the lawsuit). Many programs have been released for a variety of operating systems to compress and decompress ZIP files, and native support for the format is built into several popular operating systems."
 zip-compressed,application/zip-compressed,.zip,"ZIP is one of the most popular file compression formats. It was created in 1989 as the native format of the PKZIP program, which was introduced by Phil Katz in the wake of a lawsuit (which he lost) against him by the makers of the then-popular ARC program (and file format) for copyright and trademark infringement in an earlier program PKARC which had been file-compatible with ARC. <br /><br />This resulted in Katz creating a new file format, which rapidly overtook ARC in popularity (to a large extent because of BBS sysops, then the primary users of such compression, resenting the lawsuit). Many programs have been released for a variety of operating systems to compress and decompress ZIP files, and native support for the format is built into several popular operating systems."
-vnd.zul,application/vnd.zul,.zir.zirz,
-vnd.handheld-entertainment+xml,application/vnd.handheld-entertainment+xml,.zmm,
+vnd.zul,application/vnd.zul,.zir.zirz
+vnd.handheld-entertainment+xml,application/vnd.handheld-entertainment+xml,.zmm
 x-adobe-dng,image/x-adobe-dng,.dng,"DNG (Digital Negative) is a digital camera raw image format developed by Adobe and released in 2004. Adobe also released a free DNG converter at this time which is continually being updated with compatible RAW file types. DNG is an extension of TIFF 6.0 and is compatible with TIFF/EP.<br /><br />Adobe intends for DNG to become an archival file type, creating an open standard for RAW files."
 x-sony-arw,image/x-sony-arw,.arw,Sony ARW is a raw image format used by some Sony digital cameras. It is based on TIFF.
 x-canon-cr2,image/x-canon-cr2,.cr2,"Canon RAW 2 (CR2) is a raw image format used by Canon cameras. It replaced CRW, starting with the 20D, 350D/Digital Rebel Xt and 1D. It was replaced by Canon RAW 3."
@@ -682,5 +682,5 @@ x-fuji-raf,image/x-fuji-raf,.raf,"RAF, or Fujifilm RAW, is a raw image format us
 x-panasonic-raw,image/x-panasonic-raw,.raw.rw2.rwl,"Panasonic RAW/RW2, also known as Leica RAW or RWL, is a raw image format used by some Panasonic and Leica digital cameras. It can also be known by a camera-specific name such as Lumix RAW or Panasonic LX3 RAW.<br /><br />Different cameras produce different versions of it, and at some point the .raw file extension was changed to .rw2. The term Panasonic RAW might refer to just the .raw files, but more likely includes both .raw and .rw2."
 flac,audio/flac,.flac,"FLAC stands for Free Lossless Audio Codec, an audio format similar to MP3, but lossless, meaning that audio is compressed in FLAC without any loss in quality. <br /><br />It can encode audio with a PCM bit resolution up to 32 bits per sample and sampling rates up to 640 kHz. FLAC-encoded audio is usually found either in a native container (which has the extension .flac), or in an Ogg container (when it's known as OggFLAC)."
 x-sony-sr2,image/x-sony-sr2,.sr2,SR2 is a raw image format produced by some makes of Sony cameras. The format is based upon TIFF.
-x-sony-srf,image/x-sony-srf,.srf,
+x-sony-srf,image/x-sony-srf,.srf
 x-sigma-x3f,image/x-sigma-x3f,.x3f,"X3F (or Sigma X3F, or Foveon X3F) is a raw image format used by some Sigma digital cameras that use a ""Foveon sensor""."
