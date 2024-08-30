@@ -8,6 +8,10 @@ class CSVManager:
 		self.filename = filename
 
 	def search(self, search_text):
+		# Guard clause to check the length of search_text  
+		if len(search_text) <= 2:
+			raise ValueError("search_text must be greater than 2 characters.")  
+		search_text=search_text.lower() # to lower case
 		found=0
 		result=[]
 		with open(self.filename, mode='r', newline='\n') as file:
@@ -15,7 +19,7 @@ class CSVManager:
 			rows = list(reader)
 			for index, row in enumerate(rows):
 				for cells in row: # here we search text in all cells of each rows
-					if search_text in cells:
+					if search_text in cells.lower():
 						found=1
 				if found == 1:
 					result.append([index+1,row]) # Return line number (1-based) and the row
@@ -69,7 +73,7 @@ if __name__ == "__main__":
 	#csv_manager.add('Example Name', 'application/example', '.ex', 'This is an example.')
 
 	# Search for a row
-	line_number, row = csv_manager.search('Example Name')
+	line_number, row = csv_manager.search('E')
 	print(f'Found at line {line_number}: {row}')
 
 	# Update a row
