@@ -203,8 +203,8 @@ x-gtar,application/x-gtar,.gtar
 vnd.groove-tool-message,application/vnd.groove-tool-message,.gtm
 vnd.gtw,model/vnd.gtw,.gtw
 vnd.graphviz,text/vnd.graphviz,.gv
-x-gzip,application/x-gzip,.gz.tgz
-gzip,application/gzip,.gz.tgz
+x-gzip,application/x-gzip,.gz.tgz,gzip and zlib compression formats
+gzip,application/gzip,.gz.tgz,gzip and zlib compression formats
 h261,video/h261,.h261
 ,gcode,.gcode,"GCODE files are created by slicing programs, such as Simplify3D and Slic3r, that translate CAD drawings into G-Code, which a 3D printer can read.<br /><br />There's no official mimetype assigned as far as the author is aware, however these are the ones commonly reported."
 h263,video/h263,.h263
@@ -212,7 +212,7 @@ h264,video/h264,.h264,"Advanced Video Coding (AVC), also referred to as H.264 or
 vnd.hbci,application/vnd.hbci,.hbci
 vnd.gerber,application/vnd.gerber,.gbr,The Gerber file format is the de facto standard for printed circuit board (PCB) image data transfer. Gerber files consist of 7bit ASCII text and do not contain any active or executable content. <br /><br />The format does include an optional integrity check: A checksum of the file's content can be specified using the MD5 File Attribute. Any additional integrity protection or privacy protection must be supplied externally.
 x-hdf,application/x-hdf,.hdf
-winhlp,application/winhlp,.hlp
+winhlp,application/winhlp,.hlp,Microsoft WinHelp
 vnd.hp-hpgl,application/vnd.hp-hpgl,.hpgl
 vnd.hp-hpid,application/vnd.hp-hpid,.hpid
 vnd.hp-hps,application/vnd.hp-hps,.hps
