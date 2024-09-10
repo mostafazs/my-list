@@ -66,45 +66,45 @@ class CSVManager:
 			writer.writerow([name, mime_type, extension, description])
 		return True
 
-if __name__ == "__main__":  
-    csv_manager = CSVManager('sample.csv')  
+if __name__ == "__main__":
+    csv_manager = CSVManager('sample.csv')
 
-    while True:  
-        action = input("What would you like to do? (add, remove, update, search, exit): ").strip().lower()  
+    while True:
+        action = input("What would you like to do? (add, remove, update, search, exit): ").strip().lower()
 
-        if action == 'add':  
-            name = input("Enter name: ")  
-            application = input("Enter application: ")  
-            extension = input("Enter extension: ")  
-            description = input("Enter description: ")  
-            csv_manager.add(name, application, extension, description)  
-            print("Row added successfully.")  
+        if action == 'add':
+            name = input("Enter name: ")
+            application = input("Enter mimetype: ")
+            extension = input("Enter extension/s(with a dot): ")
+            description = input("Enter description: ")
+            csv_manager.add(name, application, extension, description)
+            print("Row added successfully.")
 
-        elif action == 'remove':  
-            line_number = int(input("Enter the line number to remove: "))  
-            csv_manager.remove(line_number)  
-            print("Row removed successfully.")  
+        elif action == 'remove':
+            line_number = int(input("Enter the line number to remove: "))
+            csv_manager.remove(line_number)
+            print("Row removed successfully.")
 
-        elif action == 'update':  
-            line_number = int(input("Enter the line number to update: "))  
-            name = input("Enter new name: ")  
-            application = input("Enter new application: ")  
-            extension = input("Enter new extension: ")  
-            description = input("Enter new description: ")  
-            csv_manager.update(line_number, [name, application, extension, description])  
-            print("Row updated successfully.")  
+        elif action == 'update':
+            line_number = int(input("Enter the line number to update: "))
+            name = input("Enter new name: ")
+            application = input("Enter new mimetype: ")
+            extension = input("Enter new extension: ")
+            description = input("Enter new description: ")
+            csv_manager.update(line_number, [name, application, extension, description])
+            print("Row updated successfully.")
 
-        elif action == 'search':  
-            query = input("Enter search query: ")  
-            line_number, row = csv_manager.search(query)  
-            if line_number is not None:  
-                print(f'Found at line {line_number}: {row}')  
-            else:  
-                print("No matching row found.")  
+        elif action == 'search':
+            query = input("Enter search query: ")
+            line_number, row = csv_manager.search(query)
+            if line_number is not None:
+                print(f'Found at line {line_number}: {row}')
+            else:
+                print("No matching row found.")
 
-        elif action == 'exit':  
-            print("Exiting the program.")  
-            break  
+        elif action == 'exit':
+            print("Exiting the program.")
+            break
 
-        else:  
+        else:
             print("Invalid action. Please choose add, remove, update, search, or exit.")
