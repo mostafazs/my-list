@@ -14,7 +14,7 @@ class CSVManager:
 		search_text=search_text.lower() # to lower case
 		found=0
 		result=[]
-		with open(self.filename, mode='r', newline='\n') as file:
+		with open(self.filename, mode='r', encoding='utf-8', errors='ignore', newline='\n') as file:
 			reader = csv.reader(file)
 			rows = list(reader)
 			for index, row in enumerate(rows):
@@ -33,14 +33,14 @@ class CSVManager:
 		return None, None
 
 	def update(self, line_number, new_data):
-		with open(self.filename, mode='r', newline='\n') as file:
+		with open(self.filename, mode='r', encoding='utf-8', errors='ignore', newline='\n') as file:
 			reader = csv.reader(file)
 			rows = list(reader)
 
 		if 0 < line_number <= len(rows):
 			rows[line_number - 1] = new_data  # Update the row
 
-			with open(self.filename, mode='w', newline='\n') as file:
+			with open(self.filename, mode='w', encoding='utf-8', errors='ignore', newline='\n') as file:
 				writer = csv.writer(file)
 				writer.writerows(rows)
 			return True
@@ -61,7 +61,7 @@ class CSVManager:
 		return False
 
 	def add(self, name, mime_type, extension, description):
-		with open(self.filename, mode='a', newline='\n') as file:
+		with open(self.filename, mode='a', encoding='utf-8', errors='ignore', newline='\n') as file:
 			writer = csv.writer(file)
 			writer.writerow([name, mime_type, extension, description])
 		return True
