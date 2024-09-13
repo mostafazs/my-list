@@ -47,14 +47,14 @@ class CSVManager:
 		return False
 
 	def remove(self, line_number):
-		with open(self.filename, mode='r', newline='\n') as file:
+		with open(self.filename, mode='r', encoding='utf-8', errors='ignore', newline='\n') as file:
 			reader = csv.reader(file)
 			rows = list(reader)
 
 		if 0 < line_number <= len(rows):
 			rows.pop(line_number - 1)  # Remove the row
 
-			with open(self.filename, mode='w', newline='\n') as file:
+			with open(self.filename, mode='w', encoding='utf-8', errors='ignore', newline='\n') as file:
 				writer = csv.writer(file)
 				writer.writerows(rows)
 			return True
