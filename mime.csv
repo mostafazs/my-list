@@ -584,7 +584,7 @@ x-ustar,application/x-ustar,.ustar
 vnd.uiq.theme,application/vnd.uiq.theme,.utz
 x-uuencode,text/x-uuencode,.uu
 x-cdlink,application/x-cdlink,.vcd
-x-vcard,text/x-vcard,.vcf
+x-vcard,text/x-vcard,.vcf,vCard, also known as VCF (Virtual Contact File), is a file format standard for electronic business cards
 vnd.groove-vcard,application/vnd.groove-vcard,.vcg
 x-vcalendar,text/x-vcalendar,.vcs
 vnd.vcx,application/vnd.vcx,.vcx
