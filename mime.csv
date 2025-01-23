@@ -418,7 +418,7 @@ pkix-pkipath,application/pkix-pkipath,.pkipath
 vnd.3gpp.pic-bw-large,application/vnd.3gpp.pic-bw-large,.plb
 vnd.mobius.plc,application/vnd.mobius.plc,.plc
 vnd.pocketlearn,application/vnd.pocketlearn,.plf
-pls+xml,application/pls+xml,.pls
+pls+xml,application/pls+xml,.pls,PLS is a computer file format for a multimedia playlist. 
 vnd.ctc-posml,application/vnd.ctc-posml,.pml
 png,image/png,.png,"Portable Network Graphics (PNG) was devised starting in a discussion on newsgroup comp.graphics in 1995, with the first version of its specification released in 1996. The motivation for its creation was to create a free and unencumbered image format in the wake of the patent issue with GIF."
 x-portable-anymap,image/x-portable-anymap,.pnm
