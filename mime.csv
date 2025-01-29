@@ -419,16 +419,16 @@ vnd.3gpp.pic-bw-large,application/vnd.3gpp.pic-bw-large,.plb
 vnd.mobius.plc,application/vnd.mobius.plc,.plc
 vnd.pocketlearn,application/vnd.pocketlearn,.plf
 pls+xml,application/pls+xml,.pls,PLS is a computer file format for a multimedia playlist. 
-vnd.ctc-posml,application/vnd.ctc-posml,.pml
+vnd.ctc-posml,application/vnd.ctc-posml,.pml,Point-of-Sale Markup Language Files
 png,image/png,.png,"Portable Network Graphics (PNG) was devised starting in a discussion on newsgroup comp.graphics in 1995, with the first version of its specification released in 1996. The motivation for its creation was to create a free and unencumbered image format in the wake of the patent issue with GIF."
-x-portable-anymap,image/x-portable-anymap,.pnm
+x-portable-anymap,image/x-portable-anymap,.pnm,Portable Anymap format, is an uncompressed raster graphics file format designed for portable image storage and exchange
 vnd.macports.portpkg,application/vnd.macports.portpkg,.portpkg
 vnd.ms-powerpoint,application/vnd.ms-powerpoint,.pot.ppa.pps.ppt.pwz,Microsoft PowerPoint
 vnd.ms-powerpoint.template.macroenabled.12,application/vnd.ms-powerpoint.template.macroenabled.12,.potm
 vnd.openxmlformats-officedocument.presentationml.template,application/vnd.openxmlformats-officedocument.presentationml.template,.potx
 vnd.ms-powerpoint.addin.macroenabled.12,application/vnd.ms-powerpoint.addin.macroenabled.12,.ppam
 vnd.cups-ppd,application/vnd.cups-ppd,.ppd
-x-portable-pixmap,image/x-portable-pixmap,.ppm
+x-portable-pixmap,image/x-portable-pixmap,.ppm,Portable Pixmap, is a binary or ASCII image file format that stores pixel data in a straightforward manner
 vnd.ms-powerpoint.slideshow.macroenabled.12,application/vnd.ms-powerpoint.slideshow.macroenabled.12,.ppsm
 vnd.openxmlformats-officedocument.presentationml.slideshow,application/vnd.openxmlformats-officedocument.presentationml.slideshow,.ppsx
 vnd.ms-powerpoint.presentation.macroenabled.12,application/vnd.ms-powerpoint.presentation.macroenabled.12,.pptm
@@ -437,7 +437,7 @@ vnd.lotus-freelance,application/vnd.lotus-freelance,.pre
 pics-rules,application/pics-rules,.prf
 prql,application/prql,.prql,"PRQL is a modern language for transforming data â€” a simple, powerful, pipelined SQL replacement."
 vnd.3gpp.pic-bw-small,application/vnd.3gpp.pic-bw-small,.psb
-vnd.adobe.photoshop,image/vnd.adobe.photoshop,.psd
+vnd.adobe.photoshop,image/vnd.adobe.photoshop,.psd, Adobe Photoshop file format
 x-font-linux-psf,application/x-font-linux-psf,.psf
 vnd.pvi.ptid1,application/vnd.pvi.ptid1,.ptid
 x-mspublisher,application/x-mspublisher,.pub
@@ -455,13 +455,13 @@ vnd.quark.quarkxpress,application/vnd.quark.quarkxpress,.qwd.qwt.qxb.qxd.qxl.qxt
 x-pn-realaudio,audio/x-pn-realaudio,.ra.ram
 vnd.rar,application/vnd.rar,.rar,"<strong>R</strong>oshal <strong>AR</strong>chive (RAR) is a proprietary file format used by the compression software WinRAR. They make the decompression code available for use in other programs and allow its distribution, but with a license provision that ""You cannot use the unrar source to re-create the RAR compression algorithm, which is proprietary."
 x-rar-compressed,application/x-rar-compressed,.rar,"<strong>R</strong>oshal <strong>AR</strong>chive (RAR) is a proprietary file format used by the compression software WinRAR. They make the decompression code available for use in other programs and allow its distribution, but with a license provision that ""You cannot use the unrar source to re-create the RAR compression algorithm, which is proprietary."
-x-cmu-raster,image/x-cmu-raster,.ras
+x-cmu-raster,image/x-cmu-raster,.ras,RAS image file, short for Sun Raster Image, is a bitmap graphics file format
 vnd.ipunplugged.rcprofile,application/vnd.ipunplugged.rcprofile,.rcprofile
 rdf+xml,application/rdf+xml,.rdf
 vnd.data-vision.rdz,application/vnd.data-vision.rdz,.rdz
 vnd.businessobjects,application/vnd.businessobjects,.rep
 x-dtbresource+xml,application/x-dtbresource+xml,.res
-x-rgb,image/x-rgb,.rgb
+x-rgb,image/x-rgb,.rgb,Silicon Graphics Image (SGI) or the RGB file format is the native raster graphics file format for Silicon Graphics workstations
 reginfo+xml,application/reginfo+xml,.rif
 resource-lists+xml,application/resource-lists+xml,.rl
 vnd.fujixerox.edmics-rlc,image/vnd.fujixerox.edmics-rlc,.rlc
