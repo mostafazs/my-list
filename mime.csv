@@ -599,7 +599,7 @@ x-doom,application/x-doom,.wad
 mp2t,video/mp2t,.ts,"MPEG Transport Stream (or MPEG-2 Transport Stream) is an MPEG multimedia format that allows interleaving more than one Packetized Elementary Stream in a single file. It is an alternative to MPEG Program Stream, designed to work better with certain kinds of streaming. It was introduced in the MPEG-2 standard. There is a variant format named M2TS, used with Blu-ray discs.<br /><br />Alternatively, you got here like I did by selecting a typescript file. That's wrong, that's your browser doing that. There's no official standard for typescript."
 vnd.wav,audio/vnd.wav,.wav,"The Waveform Audio File Format (WAV or WAVE) is a widely used audio format, originally developed by Microsoft and IBM and based on the RIFF wrapper format. The usual audio encoding in a .wav file is LPCM, considered an 'uncompressed' encoding. Because of large file sizes, WAV is not well-suited for distributing audio such as songs or podcasts. WAV is used in MS-Windows to store sounds used in applications. It is also used as an archival format for first-generation (master) files, often with a metadata chunk as specified in the Broadcast Wave (BWF) standard.<br /><br />Note a contributor has discovered compatibility issues with browsers and the official type. See the attached issue for more information."
 x-ms-wax,audio/x-ms-wax,.wax
-vnd.wap.wbmp,image/vnd.wap.wbmp,.wbmp
+vnd.wap.wbmp,image/vnd.wap.wbmp,.wbmp,Wireless Application Protocol Bitmap Format (. wbmp) is a raster image file format optimized for early mobile computing devices
 vnd.criticaltools.wbs+xml,application/vnd.criticaltools.wbs+xml,.wbs
 vnd.wap.wbxml,application/vnd.wap.wbxml,.wbxml
 vnd.ms-works,application/vnd.ms-works,.wcm.wdb.wks.wps
@@ -627,7 +627,7 @@ x-silverlight-app,application/x-silverlight-app,.xap
 vnd.xara,application/vnd.xara,.xar,Open Vector Graphic Format
 x-ms-xbap,application/x-ms-xbap,.xbap
 vnd.fujixerox.docuworks.binder,application/vnd.fujixerox.docuworks.binder,.xbd
-x-xbitmap,image/x-xbitmap,.xbm,X Bit Map
+x-xbitmap,image/x-xbitmap,.xbm,X Bit Map ( X BitMap (XBM), a plain text binary image format, for storing cursor and icon bitmaps used in the X GUI.[3] T )
 vnd.syncml.dm+xml,application/vnd.syncml.dm+xml,.xdm
 vnd.adobe.xdp+xml,application/vnd.adobe.xdp+xml,.xdp
 vnd.fujixerox.docuworks,application/vnd.fujixerox.docuworks,.xdw
@@ -648,7 +648,7 @@ xml,application/xml,.xml.xpdl.xsl
 vnd.olpc-sugar,application/vnd.olpc-sugar,.xo
 xop+xml,application/xop+xml,.xop
 x-xpinstall,application/x-xpinstall,.xpi
-x-xpixmap,image/x-xpixmap,.xpm
+x-xpixmap,image/x-xpixmap,.xpm,XPM files are used to store X Window PixMap information to disk
 vnd.is-xpr,application/vnd.is-xpr,.xpr
 vnd.ms-xpsdocument,application/vnd.ms-xpsdocument,.xps
 vnd.intercon.formnet,application/vnd.intercon.formnet,.xpw.xpx
@@ -656,7 +656,7 @@ xslt+xml,application/xslt+xml,.xslt
 vnd.syncml+xml,application/vnd.syncml+xml,.xsm
 xspf+xml,application/xspf+xml,.xspf
 vnd.mozilla.xul+xml,application/vnd.mozilla.xul+xml,.xul
-x-xwindowdump,image/x-xwindowdump,.xwd
+x-xwindowdump,image/x-xwindowdump,.xwd,XWD stands for X Window dump. Used to store and restore screen window images
 x-xyz,chemical/x-xyz,.xyz
 vnd.zzazz.deck+xml,application/vnd.zzazz.deck+xml,.zaz
 zip,application/zip,.zip,"ZIP is one of the most popular file compression formats. It was created in 1989 as the native format of the PKZIP program, which was introduced by Phil Katz in the wake of a lawsuit (which he lost) against him by the makers of the then-popular ARC program (and file format) for copyright and trademark infringement in an earlier program PKARC which had been file-compatible with ARC. <br /><br />This resulted in Katz creating a new file format, which rapidly overtook ARC in popularity (to a large extent because of BBS sysops, then the primary users of such compression, resenting the lawsuit). Many programs have been released for a variety of operating systems to compress and decompress ZIP files, and native support for the format is built into several popular operating systems."
