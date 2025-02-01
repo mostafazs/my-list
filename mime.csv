@@ -300,7 +300,7 @@ vnd.medcalcdata,application/vnd.medcalcdata,.mc1
 vnd.mcd,application/vnd.mcd,.mcd
 vnd.curl.mcurl,text/vnd.curl.mcurl,.mcurl
 x-msaccess,application/x-msaccess,.mdb
-vnd.ms-modi,image/vnd.ms-modi,.mdi
+vnd.ms-modi,image/vnd.ms-modi,.mdi,Microsoft Document Imaging File
 mesh,model/mesh,.mesh.msh.silo
 vnd.mfmp,application/vnd.mfmp,.mfm
 vnd.proteus.magazine,application/vnd.proteus.magazine,.mgz
@@ -348,7 +348,7 @@ vnd.enliven,application/vnd.enliven,.nml
 vnd.noblenet-directory,application/vnd.noblenet-directory,.nnd
 vnd.noblenet-sealer,application/vnd.noblenet-sealer,.nns
 vnd.noblenet-web,application/vnd.noblenet-web,.nnw
-vnd.net-fpx,image/vnd.net-fpx,.npx
+vnd.net-fpx,image/vnd.net-fpx,.npx,NETPIC ASCII-encoded GIF file
 vnd.lotus-notes,application/vnd.lotus-notes,.nsf
 vnd.fujitsu.oasys2,application/vnd.fujitsu.oasys2,.oa2
 vnd.fujitsu.oasys3,application/vnd.fujitsu.oasys3,.oa3
@@ -401,13 +401,13 @@ pkcs7-mime,application/pkcs7-mime,.p7c.p7m
 x-pkcs7-certreqresp,application/x-pkcs7-certreqresp,.p7r,x-pkcs7-certreqresp and the .p7r extension were also introduced by Microsoft. Likely yet another alias for pkcs7-mime.
 pkcs7-signature,application/pkcs7-signature,.p7s
 vnd.powerbuilder6,application/vnd.powerbuilder6,.pbd
-x-portable-bitmap,image/x-portable-bitmap,.pbm
+x-portable-bitmap,image/x-portable-bitmap,.pbm,Portable Bitmap File Format
 x-font-pcf,application/x-font-pcf,.pcf
 vnd.hp-pcl,application/vnd.hp-pcl,.pcl
 vnd.hp-pclxl,application/vnd.hp-pclxl,.pclxl
 x-pict,image/x-pict,.pct.pic
 vnd.curl.pcurl,application/vnd.curl.pcurl,.pcurl
-x-pcx,image/x-pcx,.pcx
+x-pcx,image/x-pcx,.pcx,Picture Exchange, is a raster image file type
 pdf,application/pdf,.pdf,"Portable Document Format (PDF) is a document file format originally from Adobe, based on PostScript. It has many subsets."
 font-tdpfr,application/font-tdpfr,.pfr
 x-portable-graymap,image/x-portable-graymap,.pgm
@@ -464,7 +464,7 @@ x-dtbresource+xml,application/x-dtbresource+xml,.res
 x-rgb,image/x-rgb,.rgb,Silicon Graphics Image (SGI) or the RGB file format is the native raster graphics file format for Silicon Graphics workstations
 reginfo+xml,application/reginfo+xml,.rif
 resource-lists+xml,application/resource-lists+xml,.rl
-vnd.fujixerox.edmics-rlc,image/vnd.fujixerox.edmics-rlc,.rlc
+vnd.fujixerox.edmics-rlc,image/vnd.fujixerox.edmics-rlc,.rlc,run length coded bitmap. Used by some CAD systems for black and white images and by scanners
 resource-lists-diff+xml,application/resource-lists-diff+xml,.rld
 vnd.rn-realmedia,application/vnd.rn-realmedia,.rm
 x-pn-realaudio-plugin,audio/x-pn-realaudio-plugin,.rmp
@@ -682,7 +682,7 @@ x-fuji-raf,image/x-fuji-raf,.raf,"RAF, or Fujifilm RAW, is a raw image format us
 x-panasonic-raw,image/x-panasonic-raw,.raw.rw2.rwl,"Panasonic RAW/RW2, also known as Leica RAW or RWL, is a raw image format used by some Panasonic and Leica digital cameras. It can also be known by a camera-specific name such as Lumix RAW or Panasonic LX3 RAW.<br /><br />Different cameras produce different versions of it, and at some point the .raw file extension was changed to .rw2. The term Panasonic RAW might refer to just the .raw files, but more likely includes both .raw and .rw2."
 flac,audio/flac,.flac,"FLAC stands for Free Lossless Audio Codec, an audio format similar to MP3, but lossless, meaning that audio is compressed in FLAC without any loss in quality. <br /><br />It can encode audio with a PCM bit resolution up to 32 bits per sample and sampling rates up to 640 kHz. FLAC-encoded audio is usually found either in a native container (which has the extension .flac), or in an Ogg container (when it's known as OggFLAC)."
 x-sony-sr2,image/x-sony-sr2,.sr2,SR2 is a raw image format produced by some makes of Sony cameras. The format is based upon TIFF.
-x-sony-srf,image/x-sony-srf,.srf
+x-sony-srf,image/x-sony-srf,.srf,SRF file is a RAW image used by a Sony camera
 x-sigma-x3f,image/x-sigma-x3f,.x3f,"X3F (or Sigma X3F, or Foveon X3F) is a raw image format used by some Sigma digital cameras that use a ""Foveon sensor""."
 vtt,text/vtt,.vtt,Web Video Text Tracks is a W3C standard for displaying timed text in connection with the HTML5 <track> element
 srt,text/srt,.srt,srt file is a human-readable file format where the subtitles are stored sequentially along with the timing information
