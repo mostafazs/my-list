@@ -383,7 +383,7 @@ x-perl,application/x-perl,.pm.pl
 webm,audio/webm,.weba,WEBM audio
 webm,video/webm,.webm,"WebM is a video and audio container format released by Google, used with content encoded under the VP8 or VP9 codecs for video, and Vorbis and Opus for audio. It is a variant of Matroska, based on EBML."
 webp,image/webp,.webp,WEBP image
-x-font-otf,application/x-font-otf,.otf
+x-font-otf,application/x-font-otf,.otf,OpenType font file
 otf,font/otf,.otf
 vnd.oasis.opendocument.graphics-template,application/vnd.oasis.opendocument.graphics-template,.otg
 vnd.oasis.opendocument.text-web,application/vnd.oasis.opendocument.text-web,.oth
@@ -402,14 +402,14 @@ x-pkcs7-certreqresp,application/x-pkcs7-certreqresp,.p7r,x-pkcs7-certreqresp and
 pkcs7-signature,application/pkcs7-signature,.p7s
 vnd.powerbuilder6,application/vnd.powerbuilder6,.pbd
 x-portable-bitmap,image/x-portable-bitmap,.pbm,Portable Bitmap File Format
-x-font-pcf,application/x-font-pcf,.pcf
+x-font-pcf,application/x-font-pcf,.pcf,binary representation of a bitmap font used by the XServer
 vnd.hp-pcl,application/vnd.hp-pcl,.pcl
 vnd.hp-pclxl,application/vnd.hp-pclxl,.pclxl
 x-pict,image/x-pict,.pct.pic
 vnd.curl.pcurl,application/vnd.curl.pcurl,.pcurl
 x-pcx,image/x-pcx,.pcx,Picture Exchange, is a raster image file type
 pdf,application/pdf,.pdf,"Portable Document Format (PDF) is a document file format originally from Adobe, based on PostScript. It has many subsets."
-font-tdpfr,application/font-tdpfr,.pfr
+font-tdpfr,application/font-tdpfr,.pfr,Portable Font Resource is an outline font format developed by Bitstream
 x-portable-graymap,image/x-portable-graymap,.pgm
 x-chess-pgn,application/x-chess-pgn,.pgn
 pgp-encrypted,application/pgp-encrypted,.pgp
