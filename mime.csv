@@ -384,7 +384,7 @@ webm,audio/webm,.weba,WEBM audio
 webm,video/webm,.webm,"WebM is a video and audio container format released by Google, used with content encoded under the VP8 or VP9 codecs for video, and Vorbis and Opus for audio. It is a variant of Matroska, based on EBML."
 webp,image/webp,.webp,WEBP image
 x-font-otf,application/x-font-otf,.otf,OpenType font file
-otf,font/otf,.otf
+otf,font/otf,.otf,OpenType font file 
 vnd.oasis.opendocument.graphics-template,application/vnd.oasis.opendocument.graphics-template,.otg
 vnd.oasis.opendocument.text-web,application/vnd.oasis.opendocument.text-web,.oth
 vnd.oasis.opendocument.image-template,application/vnd.oasis.opendocument.image-template,.oti
@@ -438,7 +438,7 @@ pics-rules,application/pics-rules,.prf
 prql,application/prql,.prql,"PRQL is a modern language for transforming data â€” a simple, powerful, pipelined SQL replacement."
 vnd.3gpp.pic-bw-small,application/vnd.3gpp.pic-bw-small,.psb
 vnd.adobe.photoshop,image/vnd.adobe.photoshop,.psd, Adobe Photoshop file format
-x-font-linux-psf,application/x-font-linux-psf,.psf
+x-font-linux-psf,application/x-font-linux-psf,.psf,PSF font
 vnd.pvi.ptid1,application/vnd.pvi.ptid1,.ptid
 x-mspublisher,application/x-mspublisher,.pub
 vnd.3gpp.pic-bw-var,application/vnd.3gpp.pic-bw-var,.pvb
@@ -522,7 +522,7 @@ vnd.openxmlformats-officedocument.presentationml.slide,application/vnd.openxmlfo
 vnd.epson.salt,application/vnd.epson.salt,.slt
 vnd.stardivision.math,application/vnd.stardivision.math,.smf
 smil+xml,application/smil+xml,.smi.smil
-x-font-snf,application/x-font-snf,.snf
+x-font-snf,application/x-font-snf,.snf,Server Normal Format (SNF) is a bitmap font format used by X Window
 vnd.yamaha.smaf-phrase,application/vnd.yamaha.smaf-phrase,.spf
 x-futuresplash,application/x-futuresplash,.spl
 vnd.in3d.spot,text/vnd.in3d.spot,.spot
