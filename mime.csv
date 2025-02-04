@@ -81,7 +81,7 @@ x-cif,chemical/x-cif,.cif
 vnd.anser-web-certificate-issue-initiation,application/vnd.anser-web-certificate-issue-initiation,.cii
 vnd.ms-artgalry,application/vnd.ms-artgalry,.cil
 vnd.claymore,application/vnd.claymore,.cla
-java-vm,application/java-vm,.class
+java-vm,application/java-vm,.class,Java class files are stream files that are produced when a source file is compiled by the Java compiler. The class file contains tables that describe each field and method of the class
 vnd.crick.clicker.keyboard,application/vnd.crick.clicker.keyboard,.clkk
 vnd.crick.clicker.palette,application/vnd.crick.clicker.palette,.clkp
 vnd.crick.clicker.template,application/vnd.crick.clicker.template,.clkt
@@ -243,10 +243,10 @@ vnd.immervision-ivu,application/vnd.immervision-ivu,.ivu
 vnd.sun.j2me.app-descriptor,text/vnd.sun.j2me.app-descriptor,.jad
 vnd.jam,application/vnd.jam,.jam
 java-archive,application/java-archive,.jar,Java Archive (JAR)
-x-java-source,text/x-java-source,.java
+x-java-source,text/x-java-source,.java,file containing Java source code and saved with . java file extension is known as Java file
 vnd.jisp,application/vnd.jisp,.jisp
 vnd.hp-jlyt,application/vnd.hp-jlyt,.jlt
-x-java-jnlp-file,application/x-java-jnlp-file,.jnlp
+x-java-jnlp-file,application/x-java-jnlp-file,.jnlp,JNLP file is a Java Web Start (JWS) file that contains XML information for launching a Java program over the network
 vnd.joost.joda-archive,application/vnd.joost.joda-archive,.joda
 jpeg,image/jpeg,.jpe.jpeg.jpg.pjpg.jfif.jfif-tbnl.jif,"JPEG is a popular raster image format well-suited to photographic images. It usually uses lossy DCT compression. It is named after the Joint Photographic Experts Group, the organization which developed the format. It is sometimes called JPEG1, JPEG-1, or JPEG 1992 to help disambiguate it."
 pjpeg,image/pjpeg,.jpe.jpeg.jpg.pjpg.jfi.jfif.jfif-tbnl.jif,PJPEG files refer to images wherein the Progressive JPEG format (hence JPEG) is used for bitmap images.
@@ -499,7 +499,7 @@ vnd.seemail,application/vnd.seemail,.see
 vnd.sema,application/vnd.sema,.sema
 vnd.semd,application/vnd.semd,.semd
 vnd.semf,application/vnd.semf,.semf
-java-serialized-object,application/java-serialized-object,.ser
+java-serialized-object,application/java-serialized-object,.ser,ser file extension is associated with Java. The ser files contain serialized object data
 set-payment-initiation,application/set-payment-initiation,.setpay
 set-registration-initiation,application/set-registration-initiation,.setreg
 vnd.hydrostatix.sof-data,application/vnd.hydrostatix.sof-data,.sfd-hdstx
