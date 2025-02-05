@@ -226,7 +226,7 @@ vnd.iccprofile,application/vnd.iccprofile,.icc.icm
 x-cooltalk,x-conference/x-cooltalk,.ice
 x-icon,image/x-icon,.ico,Icon format
 calendar,text/calendar,.ics.ifb,iCalendar format
-ief,image/ief,.ief
+ief,image/ief,.ief,Image Exchange Format
 vnd.shana.informed.formdata,application/vnd.shana.informed.formdata,.ifm
 iges,model/iges,.iges.igs
 vnd.igloader,application/vnd.igloader,.igl
