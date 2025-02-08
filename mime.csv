@@ -172,7 +172,7 @@ vnd.micrografx.flo,application/vnd.micrografx.flo,.flo
 x-flv,video/x-flv,.flv
 vnd.kde.kivio,application/vnd.kde.kivio,.flw
 vnd.fmi.flexstor,text/vnd.fmi.flexstor,.flx
-vnd.fly,text/vnd.fly,.fly
+vnd.fly,text/vnd.fly,.fly,used to represent a plain text file in a specific format associated with the FlyPost system.
 vnd.frogans.fnc,application/vnd.frogans.fnc,.fnc
 vnd.fpx,image/vnd.fpx,.fpx
 vnd.fsc.weblaunch,application/vnd.fsc.weblaunch,.fsc
