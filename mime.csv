@@ -687,3 +687,4 @@ x-sigma-x3f,image/x-sigma-x3f,.x3f,"X3F (or Sigma X3F, or Foveon X3F) is a raw i
 vtt,text/vtt,.vtt,Web Video Text Tracks is a W3C standard for displaying timed text in connection with the HTML5 <track> element
 srt,text/srt,.srt,srt file is a human-readable file format where the subtitles are stored sequentially along with the timing information
 avif,image/avif,.avif,AV1 Image File Format (AVIF) is an open, royalty-free image file format specification for storing images or image sequences compressed with AV1 in the HEIF container format
+har,text/har,.har,HAR (HTTP Archive) file format is a JSON structured file containing all network traffic information about a browser's interactions with the server providing content for a webpage
