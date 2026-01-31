@@ -691,3 +691,4 @@ har,text/har,.har,HAR (HTTP Archive) file format is a JSON structured file conta
 Adobe Muse Project,application/vnd.adobe.muse,.muse,The main editable project file containing website pages, layouts, styles, and assets. This is what you open to continue working on a Muse site
 Adobe Muse Library,application/vnd.adobe.muse.library,.mulib,Stores reusable design elements or widgets (Library Items). Can be imported into other Muse projects to maintain design consistency
 Adobe Muse Widget,application/vnd.adobe.muse.widget,.mucow,Custom widget files containing HTML, CSS, and JavaScript to add interactive elements or special features to Muse sites
+Maple Software,text/maple,.mpl,Maple Software language file
