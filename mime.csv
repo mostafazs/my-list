@@ -699,3 +699,4 @@ Maple Interface,application/x-maple-interface,.mi,Maple interface settings file 
 GeoGebra File,application/vnd.geogebra.file,.ggb,Primary GeoGebra file format
 GeoGebra HTML5,application/vnd.geogebra.tool,.ggt,GeoGebra tool file containing reusable tools or applets for sharing specific constructions
 GeoGebra Worksheet,application/zip,.ggs,GeoGebra worksheet file
+FlashBack Screen Recording,application/octet-stream,.fbr,format used by Blueberry FlashBack software to save screen recordings
