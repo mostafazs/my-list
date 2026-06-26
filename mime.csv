@@ -700,3 +700,6 @@ GeoGebra File,application/vnd.geogebra.file,.ggb,Primary GeoGebra file format
 GeoGebra HTML5,application/vnd.geogebra.tool,.ggt,GeoGebra tool file containing reusable tools or applets for sharing specific constructions
 GeoGebra Worksheet,application/zip,.ggs,GeoGebra worksheet file
 FlashBack Screen Recording,application/octet-stream,.fbr,format used by Blueberry FlashBack software to save screen recordings
+OBS Studio Base Theme,application/octet-stream,.obt,Defines the core visual appearance of the OBS user interface
+OBS Studio Variant Theme,application/octet-stream,.ovt,Works alongside the Base Theme to provide specific variations
+Qt Style Sheet Theme,application/octet-stream,.qss,A standard Qt style sheet file that dictates the look of the OBS interface
