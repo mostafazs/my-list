@@ -703,3 +703,5 @@ FlashBack Screen Recording,application/octet-stream,.fbr,format used by Blueberr
 OBS Studio Base Theme,application/octet-stream,.obt,Defines the core visual appearance of the OBS user interface
 OBS Studio Variant Theme,application/octet-stream,.ovt,Works alongside the Base Theme to provide specific variations
 Qt Style Sheet Theme,application/octet-stream,.qss,A standard Qt style sheet file that dictates the look of the OBS interface
+VMware Virtual Machine Configuration File,text/plain,.vmx,The primary configuration file for a virtual machine
+VMware Virtual Machine Disk File,application/octet-stream,.vmdk,file format for a virtual hard disk 
